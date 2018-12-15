@@ -1,0 +1,808 @@
+ODI Rank,Team 1,Team 2,InningWinner,Ground,Match Date,Winner,Host_Country,Venue_Team1,Venue_Team2,Innings_Team1,Innings_Team2,Margin
+ODI # 3079,South Africa,India,Winner1stInning,Durban,"Jan 12, 2011",South Africa,South Africa,Home,Away,First,Second,135 runs
+ODI # 3080,South Africa,India,Winner1stInning,Johannesburg,"Jan 15, 2011",India,South Africa,Home,Away,Second,First,1 run
+ODI # 3081,Australia,England,Winner2ndInning,Melbourne,"Jan 16, 2011",Australia,Australia,Home,Away,Second,First,6 wickets
+ODI # 3082,South Africa,India,Winner2ndInning,Cape Town,"Jan 18, 2011",India,South Africa,Home,Away,First,Second,2 wickets
+ODI # 3083,Australia,England,Winner1stInning,Hobart,"Jan 21, 2011",Australia,Australia,Home,Away,First,Second,46 runs
+ODI # 3084,South Africa,India,Winner1stInning,Port Elizabeth,"Jan 21, 2011",South Africa,South Africa,Home,Away,First,Second,48 runs
+ODI # 3085,New Zealand,Pakistan,Winner2ndInning,Wellington,"Jan 22, 2011",New Zealand,New Zealand,Home,Away,Second,First,9 wickets
+ODI # 3086,Australia,England,Winner2ndInning,Sydney,"Jan 23, 2011",Australia,Australia,Home,Away,Second,First,4 wickets
+ODI # 3087,South Africa,India,Winner1stInning,Centurion,"Jan 23, 2011",South Africa,South Africa,Home,Away,First,Second,33 runs
+ODI # 3089,Australia,England,Winner1stInning,Adelaide,"Jan 26, 2011",England,Australia,Home,Away,Second,First,21 runs
+ODI # 3090,New Zealand,Pakistan,Winner1stInning,Christchurch,"Jan 29, 2011",Pakistan,New Zealand,Home,Away,Second,First,43 runs
+ODI # 3091,Australia,England,Winner1stInning,Brisbane,"Jan 30, 2011",Australia,Australia,Home,Away,First,Second,51 runs
+ODI # 3093,New Zealand,Pakistan,Winner2ndInning,Napier,"Feb 1, 2011",Pakistan,New Zealand,Home,Away,First,Second,2 wickets
+ODI # 3094,Australia,England,Winner2ndInning,Sydney,"Feb 2, 2011",Australia,Australia,Home,Away,Second,First,2 wickets
+ODI # 3095,New Zealand,Pakistan,Winner1stInning,Hamilton,"Feb 3, 2011",Pakistan,New Zealand,Home,Away,Second,First,41 runs
+ODI # 3096,Sri Lanka,West Indies,Winner2ndInning,Colombo,"Feb 3, 2011",Sri Lanka,Sri Lanka,Home,Away,Second,First,8 wickets
+ODI # 3097,New Zealand,Pakistan,Winner1stInning,Auckland,"Feb 5, 2011",New Zealand,New Zealand,Home,Away,First,Second,57 runs
+ODI # 3098,Australia,England,Winner1stInning,Perth,"Feb 6, 2011",Australia,Australia,Home,Away,First,Second,57 runs
+ODI # 3099,Sri Lanka,West Indies,Winner1stInning,Colombo,"Feb 6, 2011",Sri Lanka,Sri Lanka,Home,Away,First,Second,26 runs
+ODI # 3100,Bangladesh,India,Winner1stInning,Dhaka,"Feb 19, 2011",India,Bangladesh,Home,Away,Second,First,87 runs
+ODI # 3101,Kenya,New Zealand,Winner2ndInning,Chennai,"Feb 20, 2011",New Zealand,India,Neutral,Neutral,First,Second,10 wickets
+ODI # 3102,Sri Lanka,Canada,Winner1stInning,Hambantota,"Feb 20, 2011",Sri Lanka,Sri Lanka,Home,Away,First,Second,210 runs
+ODI # 3103,Australia,Zimbabwe,Winner1stInning,Ahmedabad,"Feb 21, 2011",Australia,India,Neutral,Neutral,First,Second,91 runs
+ODI # 3104,England,Netherlands,Winner2ndInning,Nagpur,"Feb 22, 2011",England,India,Neutral,Neutral,Second,First,6 wickets
+ODI # 3105,Kenya,Pakistan,Winner1stInning,Hambantota,"Feb 23, 2011",Pakistan,Sri Lanka,Neutral,Neutral,Second,First,205 runs
+ODI # 3106,South Africa,West Indies,Winner2ndInning,Delhi,"Feb 24, 2011",South Africa,India,Neutral,Neutral,Second,First,7 wickets
+ODI # 3107,Australia,New Zealand,Winner2ndInning,Nagpur,"Feb 25, 2011",Australia,India,Neutral,Neutral,Second,First,7 wickets
+ODI # 3108,Bangladesh,Ireland,Winner1stInning,Dhaka,"Feb 25, 2011",Bangladesh,Bangladesh,Home,Away,First,Second,27 runs
+ODI # 3109,Sri Lanka,Pakistan,Winner1stInning,Colombo,"Feb 26, 2011",Pakistan,Sri Lanka,Home,Away,Second,First,11 runs
+ODI # 3111,Canada,Zimbabwe,Winner1stInning,Nagpur,"Feb 28, 2011",Zimbabwe,India,Neutral,Neutral,Second,First,175 runs
+ODI # 3112,Netherlands,West Indies,Winner1stInning,Delhi,"Feb 28, 2011",West Indies,India,Neutral,Neutral,Second,First,215 runs
+ODI # 3113,Sri Lanka,Kenya,Winner2ndInning,Colombo,"Mar 1, 2011",Sri Lanka,Sri Lanka,Home,Away,Second,First,9 wickets
+ODI # 3114,England,Ireland,Winner2ndInning,Bengaluru,"Mar 2, 2011",Ireland,India,Neutral,Neutral,First,Second,3 wickets
+ODI # 3115,Netherlands,South Africa,Winner1stInning,Mohali,"Mar 3, 2011",South Africa,,Neutral,Neutral,Second,First,231 runs
+ODI # 3116,Canada,Pakistan,Winner1stInning,Colombo,"Mar 3, 2011",Pakistan,Sri Lanka,Neutral,Neutral,Second,First,46 runs
+ODI # 3117,New Zealand,Zimbabwe,Winner2ndInning,Ahmedabad,"Mar 4, 2011",New Zealand,India,Neutral,Neutral,Second,First,10 wickets
+ODI # 3118,Bangladesh,West Indies,Winner2ndInning,Dhaka,"Mar 4, 2011",West Indies,Bangladesh,Home,Away,First,Second,9 wickets
+ODI # 3120,England,South Africa,Winner1stInning,Chennai,"Mar 6, 2011",England,India,Neutral,Neutral,First,Second,6 runs
+ODI # 3121,India,Ireland,Winner2ndInning,Bengaluru,"Mar 6, 2011",India,India,Home,Away,Second,First,5 wickets
+ODI # 3122,Canada,Kenya,Winner2ndInning,Delhi,"Mar 7, 2011",Canada,India,Neutral,Neutral,Second,First,5 wickets
+ODI # 3123,New Zealand,Pakistan,Winner1stInning,Pallekele,"Mar 8, 2011",New Zealand,,Neutral,Neutral,First,Second,110 runs
+ODI # 3124,India,Netherlands,Winner2ndInning,Delhi,"Mar 9, 2011",India,India,Home,Away,Second,First,5 wickets
+ODI # 3125,Sri Lanka,Zimbabwe,Winner1stInning,Pallekele,"Mar 10, 2011",Sri Lanka,,Neutral,Neutral,First,Second,139 runs
+ODI # 3126,Ireland,West Indies,Winner1stInning,Mohali,"Mar 11, 2011",West Indies,,Neutral,Neutral,Second,First,44 runs
+ODI # 3127,Bangladesh,England,Winner2ndInning,Chittagong,"Mar 11, 2011",Bangladesh,Bangladesh,Home,Away,Second,First,2 wickets
+ODI # 3128,India,South Africa,Winner2ndInning,Nagpur,"Mar 12, 2011",South Africa,India,Home,Away,First,Second,3 wickets
+ODI # 3129,Canada,New Zealand,Winner1stInning,Mumbai,"Mar 13, 2011",New Zealand,India,Neutral,Neutral,Second,First,97 runs
+ODI # 3130,Australia,Kenya,Winner1stInning,Bengaluru,"Mar 13, 2011",Australia,India,Neutral,Neutral,First,Second,60 runs
+ODI # 3131,Bangladesh,Netherlands,Winner2ndInning,Chittagong,"Mar 14, 2011",Bangladesh,Bangladesh,Home,Away,Second,First,6 wickets
+ODI # 3132,Pakistan,Zimbabwe,Winner2ndInning,Pallekele,"Mar 14, 2011",Pakistan,,Neutral,Neutral,Second,First,7 wickets
+ODI # 3133,Ireland,South Africa,Winner1stInning,Kolkata,"Mar 15, 2011",South Africa,India,Neutral,Neutral,Second,First,131 runs
+ODI # 3134,Australia,Canada,Winner2ndInning,Bengaluru,"Mar 16, 2011",Australia,India,Neutral,Neutral,Second,First,7 wickets
+ODI # 3135,England,West Indies,Winner1stInning,Chennai,"Mar 17, 2011",England,India,Neutral,Neutral,First,Second,18 runs
+ODI # 3136,Ireland,Netherlands,Winner2ndInning,Kolkata,"Mar 18, 2011",Ireland,India,Neutral,Neutral,Second,First,6 wickets
+ODI # 3137,New Zealand,Sri Lanka,Winner1stInning,Mumbai,"Mar 18, 2011",Sri Lanka,India,Neutral,Neutral,Second,First,112 runs
+ODI # 3138,Bangladesh,South Africa,Winner1stInning,Dhaka,"Mar 19, 2011",South Africa,Bangladesh,Home,Away,Second,First,206 runs
+ODI # 3139,Australia,Pakistan,Winner2ndInning,Colombo,"Mar 19, 2011",Pakistan,Sri Lanka,Neutral,Neutral,First,Second,4 wickets
+ODI # 3140,Kenya,Zimbabwe,Winner1stInning,Kolkata,"Mar 20, 2011",Zimbabwe,India,Neutral,Neutral,Second,First,161 runs
+ODI # 3141,India,West Indies,Winner1stInning,Chennai,"Mar 20, 2011",India,India,Home,Away,First,Second,80 runs
+ODI # 3142,Pakistan,West Indies,Winner2ndInning,Dhaka,"Mar 23, 2011",Pakistan,Bangladesh,Neutral,Neutral,Second,First,10 wickets
+ODI # 3143,India,Australia,Winner2ndInning,Ahmedabad,"Mar 24, 2011",India,India,Home,Away,Second,First,5 wickets
+ODI # 3144,New Zealand,South Africa,Winner1stInning,Dhaka,"Mar 25, 2011",New Zealand,Bangladesh,Neutral,Neutral,First,Second,49 runs
+ODI # 3145,Sri Lanka,England,Winner2ndInning,Colombo,"Mar 26, 2011",Sri Lanka,Sri Lanka,Home,Away,Second,First,10 wickets
+ODI # 3146,Sri Lanka,New Zealand,Winner2ndInning,Colombo,"Mar 29, 2011",Sri Lanka,Sri Lanka,Home,Away,Second,First,5 wickets
+ODI # 3147,India,Pakistan,Winner1stInning,Mohali,"Mar 30, 2011",India,,Neutral,Neutral,First,Second,29 runs
+ODI # 3148,India,Sri Lanka,Winner2ndInning,Mumbai,"Apr 2, 2011",India,India,Home,Away,Second,First,6 wickets
+ODI # 3149,Bangladesh,Australia,Winner1stInning,Dhaka,"Apr 9, 2011",Australia,Bangladesh,Home,Away,Second,First,60 runs
+ODI # 3150,Bangladesh,Australia,Winner2ndInning,Dhaka,"Apr 11, 2011",Australia,Bangladesh,Home,Away,First,Second,9 wickets
+ODI # 3151,Bangladesh,Australia,Winner1stInning,Dhaka,"Apr 13, 2011",Australia,Bangladesh,Home,Away,Second,First,66 runs
+ODI # 3152,West Indies,Pakistan,Winner2ndInning,Gros Islet,"Apr 23, 2011",Pakistan,West Indies,Home,Away,First,Second,8 wickets
+ODI # 3153,West Indies,Pakistan,Winner2ndInning,Gros Islet,"Apr 25, 2011",Pakistan,West Indies,Home,Away,First,Second,7 wickets
+ODI # 3154,West Indies,Pakistan,Winner2ndInning,Bridgetown,"Apr 28, 2011",Pakistan,West Indies,Home,Away,First,Second,3 wickets
+ODI # 3155,West Indies,Pakistan,Winner1stInning,Bridgetown,"May 2, 2011",West Indies,West Indies,Home,Away,First,Second,1 run
+ODI # 3156,West Indies,Pakistan,Winner2ndInning,Providence,"May 5, 2011",West Indies,West Indies,Home,Away,Second,First,10 wickets
+ODI # 3157,Ireland,Pakistan,Winner2ndInning,Belfast,"May 28, 2011",Pakistan,Ireland,Home,Away,First,Second,7 wickets
+ODI # 3158,Ireland,Pakistan,Winner2ndInning,Belfast,"May 30, 2011",Pakistan,Ireland,Home,Away,First,Second,5 wickets
+ODI # 3159,West Indies,India,Winner2ndInning,Port of Spain,"Jun 6, 2011",India,West Indies,Home,Away,First,Second,4 wickets
+ODI # 3160,West Indies,India,Winner2ndInning,Port of Spain,"Jun 8, 2011",India,West Indies,Home,Away,First,Second,7 wickets
+ODI # 3161,West Indies,India,Winner2ndInning,North Sound,"Jun 11, 2011",India,West Indies,Home,Away,First,Second,3 wickets
+ODI # 3162,West Indies,India,Winner1stInning,North Sound,"Jun 13, 2011",West Indies,West Indies,Home,Away,First,Second,103 runs
+ODI # 3163,West Indies,India,Winner2ndInning,Kingston,"Jun 16, 2011",West Indies,West Indies,Home,Away,Second,First,7 wickets
+ODI # 3164,Scotland,Netherlands,Winner1stInning,Aberdeen,"Jun 28, 2011",Scotland,Scotland,Home,Away,First,Second,15 runs
+ODI # 3165,England,Sri Lanka,Winner1stInning,The Oval,"Jun 28, 2011",England,England,Home,Away,First,Second,110 runs
+ODI # 3166,Scotland,Netherlands,Winner2ndInning,Aberdeen,"Jun 29, 2011",Scotland,Scotland,Home,Away,Second,First,5 wickets
+ODI # 3167,England,Sri Lanka,Winner1stInning,Leeds,"Jul 1, 2011",Sri Lanka,England,Home,Away,Second,First,69 runs
+ODI # 3168,England,Sri Lanka,Winner2ndInning,Lord's,"Jul 3, 2011",Sri Lanka,England,Home,Away,First,Second,6 wickets
+ODI # 3169,England,Sri Lanka,Winner2ndInning,Nottingham,"Jul 6, 2011",England,England,Home,Away,Second,First,10 wickets
+ODI # 3170,England,Sri Lanka,Winner1stInning,Manchester,"Jul 9, 2011",England,England,Home,Away,First,Second,16 runs
+ODI # 3171,Scotland,Ireland,Winner2ndInning,Edinburgh,"Jul 12, 2011",Scotland,Scotland,Home,Away,Second,First,5 wickets
+ODI # 3172,Scotland,Sri Lanka,Winner1stInning,Edinburgh,"Jul 13, 2011",Sri Lanka,Scotland,Home,Away,Second,First,183 runs
+ODI # 3173,Canada,Afghanistan,Winner2ndInning,King City,"Aug 7, 2011",Afghanistan,Canada,Home,Away,First,Second,2 wickets
+ODI # 3174,Canada,Afghanistan,Winner1stInning,Toronto,"Aug 9, 2011",Afghanistan,Canada,Home,Away,Second,First,17 runs
+ODI # 3175,Sri Lanka,Australia,Winner2ndInning,Pallekele,"Aug 10, 2011",Australia,,Neutral,Neutral,First,Second,7 wickets
+ODI # 3176,Zimbabwe,Bangladesh,Winner2ndInning,Harare,"Aug 12, 2011",Zimbabwe,Zimbabwe,Home,Away,Second,First,4 wickets
+ODI # 3177,Zimbabwe,Bangladesh,Winner2ndInning,Harare,"Aug 14, 2011",Zimbabwe,Zimbabwe,Home,Away,Second,First,7 wickets
+ODI # 3178,Sri Lanka,Australia,Winner2ndInning,Hambantota,"Aug 14, 2011",Australia,Sri Lanka,Home,Away,First,Second,8 wickets
+ODI # 3179,Zimbabwe,Bangladesh,Winner1stInning,Harare,"Aug 16, 2011",Zimbabwe,Zimbabwe,Home,Away,First,Second,5 runs
+ODI # 3180,Sri Lanka,Australia,Winner1stInning,Hambantota,"Aug 16, 2011",Sri Lanka,Sri Lanka,Home,Away,First,Second,78 runs
+ODI # 3181,Zimbabwe,Bangladesh,Winner2ndInning,Bulawayo,"Aug 19, 2011",Bangladesh,Zimbabwe,Home,Away,First,Second,6 wickets
+ODI # 3182,Sri Lanka,Australia,Winner2ndInning,Colombo,"Aug 20, 2011",Australia,Sri Lanka,Home,Away,First,Second,5 wickets
+ODI # 3183,Zimbabwe,Bangladesh,Winner1stInning,Bulawayo,"Aug 21, 2011",Bangladesh,Zimbabwe,Home,Away,Second,First,93 runs
+ODI # 3184,Sri Lanka,Australia,Winner2ndInning,Colombo,"Aug 22, 2011",Sri Lanka,Sri Lanka,Home,Away,Second,First,4 wickets
+ODI # 3185,Ireland,England,Winner1stInning,Dublin,"Aug 25, 2011",England,Ireland,Home,Away,Second,First,11 runs
+ODI # 3187,England,India,Winner2ndInning,Southampton,"Sep 6, 2011",England,England,Home,Away,Second,First,7 wickets
+ODI # 3188,Zimbabwe,Pakistan,Winner1stInning,Bulawayo,"Sep 8, 2011",Pakistan,Zimbabwe,Home,Away,Second,First,5 runs
+ODI # 3189,England,India,Winner2ndInning,The Oval,"Sep 9, 2011",England,England,Home,Away,Second,First,3 wickets
+ODI # 3190,Zimbabwe,Pakistan,Winner2ndInning,Harare,"Sep 11, 2011",Pakistan,Zimbabwe,Home,Away,First,Second,10 wickets
+ODI # 3192,Netherlands,Kenya,Winner2ndInning,The Hague,"Sep 12, 2011",Netherlands,Netherlands,Home,Away,Second,First,2 wickets
+ODI # 3193,Netherlands,Kenya,Winner2ndInning,The Hague,"Sep 13, 2011",Netherlands,Netherlands,Home,Away,Second,First,4 wickets
+ODI # 3194,Zimbabwe,Pakistan,Winner1stInning,Harare,"Sep 14, 2011",Pakistan,Zimbabwe,Home,Away,Second,First,28 runs
+ODI # 3195,England,India,Winner2ndInning,Cardiff,"Sep 16, 2011",England,England,Home,Away,Second,First,6 wickets
+ODI # 3196,Ireland,Canada,Winner1stInning,Dublin,"Sep 19, 2011",Ireland,Ireland,Home,Away,First,Second,133 runs
+ODI # 3197,Ireland,Canada,Winner1stInning,Dublin,"Sep 20, 2011",Ireland,Ireland,Home,Away,First,Second,56 runs
+ODI # 3198,Bangladesh,West Indies,Winner1stInning,Dhaka,"Oct 13, 2011",West Indies,Bangladesh,Home,Away,Second,First,40 runs
+ODI # 3199,India,England,Winner1stInning,Hyderabad,"Oct 14, 2011",India,India,Home,Away,First,Second,126 runs
+ODI # 3200,Bangladesh,West Indies,Winner2ndInning,Dhaka,"Oct 15, 2011",West Indies,Bangladesh,Home,Away,First,Second,8 wickets
+ODI # 3201,India,England,Winner2ndInning,Delhi,"Oct 17, 2011",India,India,Home,Away,Second,First,8 wickets
+ODI # 3202,Bangladesh,West Indies,Winner2ndInning,Chittagong,"Oct 18, 2011",Bangladesh,Bangladesh,Home,Away,Second,First,8 wickets
+ODI # 3203,South Africa,Australia,Winner1stInning,Centurion,"Oct 19, 2011",Australia,South Africa,Home,Away,Second,First,93 runs
+ODI # 3204,Zimbabwe,New Zealand,Winner2ndInning,Harare,"Oct 20, 2011",New Zealand,Zimbabwe,Home,Away,First,Second,9 wickets
+ODI # 3205,India,England,Winner2ndInning,Mohali,"Oct 20, 2011",India,,Neutral,Neutral,Second,First,5 wickets
+ODI # 3206,Zimbabwe,New Zealand,Winner2ndInning,Harare,"Oct 22, 2011",New Zealand,Zimbabwe,Home,Away,First,Second,4 wickets
+ODI # 3207,India,England,Winner2ndInning,Mumbai,"Oct 23, 2011",India,India,Home,Away,Second,First,6 wickets
+ODI # 3208,South Africa,Australia,Winner1stInning,Port Elizabeth,"Oct 23, 2011",South Africa,South Africa,Home,Away,First,Second,80 runs
+ODI # 3209,Zimbabwe,New Zealand,Winner2ndInning,Bulawayo,"Oct 25, 2011",Zimbabwe,Zimbabwe,Home,Away,Second,First,1 wicket
+ODI # 3210,India,England,Winner1stInning,Kolkata,"Oct 25, 2011",India,India,Home,Away,First,Second,95 runs
+ODI # 3211,South Africa,Australia,Winner2ndInning,Durban,"Oct 28, 2011",Australia,South Africa,Home,Away,First,Second,3 wickets
+ODI # 3212,Pakistan,Sri Lanka,Winner2ndInning,Dubai,"Nov 11, 2011",Pakistan,U.A.E.,Neutral,Neutral,Second,First,8 wickets
+ODI # 3213,Pakistan,Sri Lanka,Winner1stInning,Dubai,"Nov 14, 2011",Sri Lanka,U.A.E.,Neutral,Neutral,Second,First,25 runs
+ODI # 3214,Pakistan,Sri Lanka,Winner1stInning,Dubai,"Nov 18, 2011",Pakistan,U.A.E.,Neutral,Neutral,First,Second,21 runs
+ODI # 3215,Pakistan,Sri Lanka,Winner1stInning,Sharjah,"Nov 20, 2011",Pakistan,U.A.E.,Neutral,Neutral,First,Second,26 runs
+ODI # 3216,Pakistan,Sri Lanka,Winner2ndInning,Abu Dhabi,"Nov 23, 2011",Pakistan,U.A.E.,Neutral,Neutral,Second,First,3 wickets
+ODI # 3217,India,West Indies,Winner2ndInning,Cuttack,"Nov 29, 2011",India,India,Home,Away,Second,First,1 wicket
+ODI # 3218,Bangladesh,Pakistan,Winner2ndInning,Dhaka,"Dec 1, 2011",Pakistan,Bangladesh,Home,Away,First,Second,5 wickets
+ODI # 3219,India,West Indies,Winner2ndInning,Visakhapatnam,"Dec 2, 2011",India,India,Home,Away,Second,First,5 wickets
+ODI # 3220,Bangladesh,Pakistan,Winner1stInning,Dhaka,"Dec 3, 2011",Pakistan,Bangladesh,Home,Away,Second,First,76 runs
+ODI # 3221,India,West Indies,Winner1stInning,Ahmedabad,"Dec 5, 2011",West Indies,India,Home,Away,Second,First,16 runs
+ODI # 3222,Bangladesh,Pakistan,Winner1stInning,Chittagong,"Dec 6, 2011",Pakistan,Bangladesh,Home,Away,Second,First,58 runs
+ODI # 3223,India,West Indies,Winner1stInning,Indore,"Dec 8, 2011",India,India,Home,Away,First,Second,153 runs
+ODI # 3224,India,West Indies,Winner1stInning,Chennai,"Dec 11, 2011",India,India,Home,Away,First,Second,34 runs
+ODI # 3225,South Africa,Sri Lanka,Winner1stInning,Paarl,"Jan 11, 2012",South Africa,South Africa,Home,Away,First,Second,258 runs
+ODI # 3226,South Africa,Sri Lanka,Winner2ndInning,East London,"Jan 14, 2012",South Africa,South Africa,Home,Away,Second,First,5 wickets
+ODI # 3227,South Africa,Sri Lanka,Winner1stInning,Bloemfontein,"Jan 17, 2012",South Africa,South Africa,Home,Away,First,Second,4 runs
+ODI # 3228,South Africa,Sri Lanka,Winner2ndInning,Kimberley,"Jan 20, 2012",Sri Lanka,South Africa,Home,Away,First,Second,5 wickets
+ODI # 3229,South Africa,Sri Lanka,Winner2ndInning,Johannesburg,"Jan 22, 2012",Sri Lanka,South Africa,Home,Away,First,Second,2 wickets
+ODI # 3230,New Zealand,Zimbabwe,Winner1stInning,Dunedin,"Feb 3, 2012",New Zealand,New Zealand,Home,Away,First,Second,90 runs
+ODI # 3231,Australia,India,Winner1stInning,Melbourne,"Feb 5, 2012",Australia,Australia,Home,Away,First,Second,65 runs
+ODI # 3232,New Zealand,Zimbabwe,Winner1stInning,Whangarei,"Feb 6, 2012",New Zealand,New Zealand,Home,Away,First,Second,141 runs
+ODI # 3233,India,Sri Lanka,Winner2ndInning,Perth,"Feb 8, 2012",India,Australia,Neutral,Neutral,Second,First,4 wickets
+ODI # 3234,New Zealand,Zimbabwe,Winner1stInning,Napier,"Feb 9, 2012",New Zealand,New Zealand,Home,Away,First,Second,202 runs
+ODI # 3235,Australia,Sri Lanka,Winner1stInning,Perth,"Feb 10, 2012",Australia,Australia,Home,Away,First,Second,5 runs
+ODI # 3236,Afghanistan,Pakistan,Winner2ndInning,Sharjah,"Feb 10, 2012",Pakistan,U.A.E.,Neutral,Neutral,First,Second,7 wickets
+ODI # 3237,Australia,India,Winner2ndInning,Adelaide,"Feb 12, 2012",India,Australia,Home,Away,First,Second,4 wickets
+ODI # 3238,England,Pakistan,Winner1stInning,Abu Dhabi,"Feb 13, 2012",England,U.A.E.,Neutral,Neutral,First,Second,130 runs
+ODI # 3240,England,Pakistan,Winner1stInning,Abu Dhabi,"Feb 15, 2012",England,U.A.E.,Neutral,Neutral,First,Second,20 runs
+ODI # 3241,Australia,Sri Lanka,Winner2ndInning,Sydney,"Feb 17, 2012",Sri Lanka,Australia,Home,Away,First,Second,8 wickets
+ODI # 3242,Kenya,Ireland,Winner2ndInning,Mombasa,"Feb 18, 2012",Kenya,Kenya,Home,Away,Second,First,7 wickets
+ODI # 3243,England,Pakistan,Winner2ndInning,Dubai,"Feb 18, 2012",England,U.A.E.,Neutral,Neutral,Second,First,9 wickets
+ODI # 3244,Australia,India,Winner1stInning,Brisbane,"Feb 19, 2012",Australia,Australia,Home,Away,First,Second,110 runs
+ODI # 3245,Kenya,Ireland,Winner1stInning,Mombasa,"Feb 20, 2012",Ireland,Kenya,Home,Away,Second,First,117 runs
+ODI # 3246,India,Sri Lanka,Winner1stInning,Brisbane,"Feb 21, 2012",Sri Lanka,Australia,Neutral,Neutral,Second,First,51 runs
+ODI # 3247,England,Pakistan,Winner2ndInning,Dubai,"Feb 21, 2012",England,U.A.E.,Neutral,Neutral,Second,First,4 wickets
+ODI # 3248,Australia,Sri Lanka,Winner2ndInning,Hobart,"Feb 24, 2012",Sri Lanka,Australia,Home,Away,First,Second,3 wickets
+ODI # 3249,New Zealand,South Africa,Winner2ndInning,Wellington,"Feb 25, 2012",South Africa,New Zealand,Home,Away,First,Second,6 wickets
+ODI # 3250,Australia,India,Winner1stInning,Sydney,"Feb 26, 2012",Australia,Australia,Home,Away,First,Second,87 runs
+ODI # 3251,India,Sri Lanka,Winner2ndInning,Hobart,"Feb 28, 2012",India,Australia,Neutral,Neutral,Second,First,7 wickets
+ODI # 3252,New Zealand,South Africa,Winner2ndInning,Napier,"Feb 29, 2012",South Africa,New Zealand,Home,Away,First,Second,6 wickets
+ODI # 3253,Australia,Sri Lanka,Winner1stInning,Melbourne,"Mar 2, 2012",Sri Lanka,Australia,Home,Away,Second,First,9 runs
+ODI # 3254,New Zealand,South Africa,Winner2ndInning,Auckland,"Mar 3, 2012",South Africa,New Zealand,Home,Away,First,Second,5 wickets
+ODI # 3255,Australia,Sri Lanka,Winner1stInning,Brisbane,"Mar 4, 2012",Australia,Australia,Home,Away,First,Second,15 runs
+ODI # 3256,Australia,Sri Lanka,Winner2ndInning,Adelaide,"Mar 6, 2012",Sri Lanka,Australia,Home,Away,First,Second,8 wickets
+ODI # 3257,Australia,Sri Lanka,Winner1stInning,Adelaide,"Mar 8, 2012",Australia,Australia,Home,Away,First,Second,16 runs
+ODI # 3258,Bangladesh,Pakistan,Winner1stInning,Dhaka,"Mar 11, 2012",Pakistan,Bangladesh,Home,Away,Second,First,21 runs
+ODI # 3259,India,Sri Lanka,Winner1stInning,Dhaka,"Mar 13, 2012",India,Bangladesh,Neutral,Neutral,First,Second,50 runs
+ODI # 3260,Pakistan,Sri Lanka,Winner2ndInning,Dhaka,"Mar 15, 2012",Pakistan,Bangladesh,Neutral,Neutral,Second,First,6 wickets
+ODI # 3261,Bangladesh,India,Winner2ndInning,Dhaka,"Mar 16, 2012",Bangladesh,Bangladesh,Home,Away,Second,First,5 wickets
+ODI # 3262,West Indies,Australia,Winner1stInning,Kingstown,"Mar 16, 2012",Australia,West Indies,Home,Away,Second,First,64 runs
+ODI # 3263,India,Pakistan,Winner2ndInning,Dhaka,"Mar 18, 2012",India,Bangladesh,Neutral,Neutral,Second,First,6 wickets
+ODI # 3264,West Indies,Australia,Winner2ndInning,Kingstown,"Mar 18, 2012",West Indies,West Indies,Home,Away,Second,First,5 wickets
+ODI # 3265,Bangladesh,Sri Lanka,Winner2ndInning,Dhaka,"Mar 20, 2012",Bangladesh,Bangladesh,Home,Away,Second,First,5 wickets
+ODI # 3267,Bangladesh,Pakistan,Winner1stInning,Dhaka,"Mar 22, 2012",Pakistan,Bangladesh,Home,Away,Second,First,2 runs
+ODI # 3268,West Indies,Australia,Winner1stInning,Gros Islet,"Mar 23, 2012",West Indies,West Indies,Home,Away,First,Second,42 runs
+ODI # 3269,West Indies,Australia,Winner1stInning,Gros Islet,"Mar 25, 2012",Australia,West Indies,Home,Away,Second,First,30 runs
+ODI # 3270,Afghanistan,Netherlands,Winner2ndInning,Sharjah,"Mar 29, 2012",Netherlands,U.A.E.,Neutral,Neutral,First,Second,9 wickets
+ODI # 3271,Afghanistan,Netherlands,Winner2ndInning,Sharjah,"Mar 31, 2012",Afghanistan,U.A.E.,Neutral,Neutral,Second,First,5 wickets
+ODI # 3272,Sri Lanka,Pakistan,Winner2ndInning,Pallekele,"Jun 7, 2012",Pakistan,,Neutral,Neutral,First,Second,6 wickets
+ODI # 3273,Sri Lanka,Pakistan,Winner1stInning,Pallekele,"Jun 9, 2012",Sri Lanka,,Neutral,Neutral,First,Second,76 runs
+ODI # 3275,Sri Lanka,Pakistan,Winner1stInning,Colombo,"Jun 16, 2012",Sri Lanka,Sri Lanka,Home,Away,First,Second,44 runs
+ODI # 3276,England,West Indies,Winner1stInning,Southampton,"Jun 16, 2012",England,England,Home,Away,First,Second,114 runs
+ODI # 3277,Sri Lanka,Pakistan,Winner2ndInning,Colombo,"Jun 18, 2012",Sri Lanka,Sri Lanka,Home,Away,Second,First,2 wickets
+ODI # 3278,England,West Indies,Winner2ndInning,The Oval,"Jun 19, 2012",England,England,Home,Away,Second,First,8 wickets
+ODI # 3280,England,Australia,Winner1stInning,Lord's,"Jun 29, 2012",England,England,Home,Away,First,Second,15 runs
+ODI # 3281,England,Australia,Winner2ndInning,The Oval,"Jul 1, 2012",England,England,Home,Away,Second,First,6 wickets
+ODI # 3282,Ireland,Afghanistan,Winner1stInning,Dublin,"Jul 5, 2012",Ireland,Ireland,Home,Away,First,Second,59 runs
+ODI # 3283,West Indies,New Zealand,Winner2ndInning,Kingston,"Jul 5, 2012",West Indies,West Indies,Home,Away,Second,First,9 wickets
+ODI # 3284,England,Australia,Winner2ndInning,Chester,"Jul 7, 2012",England,England,Home,Away,Second,First,8 wickets
+ODI # 3285,West Indies,New Zealand,Winner1stInning,Kingston,"Jul 7, 2012",West Indies,West Indies,Home,Away,First,Second,55 runs
+ODI # 3286,England,Australia,Winner2ndInning,Manchester,"Jul 10, 2012",England,England,Home,Away,Second,First,7 wickets
+ODI # 3287,Scotland,Canada,Winner2ndInning,Ayr,"Jul 11-12, 2012",Scotland,Scotland,Home,Away,Second,First,4 wickets
+ODI # 3288,West Indies,New Zealand,Winner1stInning,Basseterre,"Jul 11, 2012",New Zealand,West Indies,Home,Away,Second,First,88 runs
+ODI # 3289,West Indies,New Zealand,Winner1stInning,Basseterre,"Jul 14, 2012",West Indies,West Indies,Home,Away,First,Second,24 runs
+ODI # 3290,West Indies,New Zealand,Winner1stInning,Basseterre,"Jul 16, 2012",West Indies,West Indies,Home,Away,First,Second,20 runs
+ODI # 3291,Sri Lanka,India,Winner1stInning,Hambantota,"Jul 21, 2012",India,Sri Lanka,Home,Away,Second,First,21 runs
+ODI # 3292,Sri Lanka,India,Winner2ndInning,Hambantota,"Jul 24, 2012",Sri Lanka,Sri Lanka,Home,Away,Second,First,9 wickets
+ODI # 3293,Sri Lanka,India,Winner2ndInning,Colombo,"Jul 28, 2012",India,Sri Lanka,Home,Away,First,Second,5 wickets
+ODI # 3294,Sri Lanka,India,Winner2ndInning,Colombo,"Jul 31, 2012",India,Sri Lanka,Home,Away,First,Second,6 wickets
+ODI # 3295,Sri Lanka,India,Winner1stInning,Pallekele,"Aug 4, 2012",India,,Neutral,Neutral,Second,First,20 runs
+ODI # 3297,Afghanistan,Australia,Winner1stInning,Sharjah,"Aug 25, 2012",Australia,U.A.E.,Neutral,Neutral,Second,First,66 runs
+ODI # 3298,England,South Africa,Winner1stInning,Southampton,"Aug 28, 2012",South Africa,England,Home,Away,Second,First,80 runs
+ODI # 3299,Australia,Pakistan,Winner2ndInning,Sharjah,"Aug 28, 2012",Australia,U.A.E.,Neutral,Neutral,Second,First,4 wickets
+ODI # 3300,England,South Africa,Winner2ndInning,The Oval,"Aug 31, 2012",England,England,Home,Away,Second,First,4 wickets
+ODI # 3301,Australia,Pakistan,Winner2ndInning,Abu Dhabi,"Aug 31, 2012",Pakistan,U.A.E.,Neutral,Neutral,First,Second,7 wickets
+ODI # 3302,England,South Africa,Winner2ndInning,Lord's,"Sep 2, 2012",England,England,Home,Away,Second,First,6 wickets
+ODI # 3303,Australia,Pakistan,Winner2ndInning,Sharjah,"Sep 3, 2012",Australia,U.A.E.,Neutral,Neutral,Second,First,3 wickets
+ODI # 3304,England,South Africa,Winner2ndInning,Nottingham,"Sep 5, 2012",South Africa,England,Home,Away,First,Second,7 wickets
+ODI # 3305,Sri Lanka,New Zealand,Winner1stInning,Pallekele,"Nov 4, 2012",Sri Lanka,,Neutral,Neutral,First,Second,14 runs
+ODI # 3306,Sri Lanka,New Zealand,Winner2ndInning,Pallekele,"Nov 6, 2012",Sri Lanka,,Neutral,Neutral,Second,First,7 wickets
+ODI # 3307,Sri Lanka,New Zealand,Winner2ndInning,Hambantota,"Nov 10, 2012",Sri Lanka,Sri Lanka,Home,Away,Second,First,7 wickets
+ODI # 3309,Bangladesh,West Indies,Winner2ndInning,Khulna,"Nov 30, 2012",Bangladesh,Bangladesh,Home,Away,Second,First,7 wickets
+ODI # 3310,Bangladesh,West Indies,Winner1stInning,Khulna,"Dec 2, 2012",Bangladesh,Bangladesh,Home,Away,First,Second,160 runs
+ODI # 3311,Bangladesh,West Indies,Winner2ndInning,Dhaka,"Dec 5, 2012",West Indies,Bangladesh,Home,Away,First,Second,4 wickets
+ODI # 3312,Bangladesh,West Indies,Winner1stInning,Dhaka,"Dec 7, 2012",West Indies,Bangladesh,Home,Away,Second,First,75 runs
+ODI # 3313,Bangladesh,West Indies,Winner2ndInning,Dhaka,"Dec 8, 2012",Bangladesh,Bangladesh,Home,Away,Second,First,2 wickets
+ODI # 3314,India,Pakistan,Winner2ndInning,Chennai,"Dec 30, 2012",Pakistan,India,Home,Away,First,Second,6 wickets
+ODI # 3315,India,Pakistan,Winner1stInning,Kolkata,"Jan 3, 2013",Pakistan,India,Home,Away,Second,First,85 runs
+ODI # 3316,India,Pakistan,Winner1stInning,Delhi,"Jan 6, 2013",India,India,Home,Away,First,Second,10 runs
+ODI # 3317,Australia,Sri Lanka,Winner1stInning,Melbourne,"Jan 11, 2013",Australia,Australia,Home,Away,First,Second,107 runs
+ODI # 3318,India,England,Winner1stInning,Rajkot,"Jan 11, 2013",England,India,Home,Away,Second,First,9 runs
+ODI # 3319,Australia,Sri Lanka,Winner2ndInning,Adelaide,"Jan 13, 2013",Sri Lanka,Australia,Home,Away,First,Second,8 wickets
+ODI # 3320,India,England,Winner1stInning,Kochi,"Jan 15, 2013",India,India,Home,Away,First,Second,127 runs
+ODI # 3321,Australia,Sri Lanka,Winner2ndInning,Brisbane,"Jan 18, 2013",Sri Lanka,Australia,Home,Away,First,Second,4 wickets
+ODI # 3322,India,England,Winner2ndInning,Ranchi,"Jan 19, 2013",India,India,Home,Away,Second,First,7 wickets
+ODI # 3323,South Africa,New Zealand,Winner2ndInning,Paarl,"Jan 19, 2013",New Zealand,South Africa,Home,Away,First,Second,1 wicket
+ODI # 3325,South Africa,New Zealand,Winner1stInning,Kimberley,"Jan 22, 2013",New Zealand,South Africa,Home,Away,Second,First,27 runs
+ODI # 3326,Australia,Sri Lanka,Winner1stInning,Hobart,"Jan 23, 2013",Australia,Australia,Home,Away,First,Second,32 runs
+ODI # 3327,India,England,Winner2ndInning,Mohali,"Jan 23, 2013",India,,Neutral,Neutral,Second,First,5 wickets
+ODI # 3328,South Africa,New Zealand,Winner2ndInning,Potchefstroom,"Jan 25, 2013",South Africa,South Africa,Home,Away,Second,First,1 wicket
+ODI # 3329,India,England,Winner2ndInning,Dharamsala,"Jan 27, 2013",England,India,Home,Away,First,Second,7 wickets
+ODI # 3330,Australia,West Indies,Winner2ndInning,Perth,"Feb 1, 2013",Australia,Australia,Home,Away,Second,First,9 wickets
+ODI # 3331,Australia,West Indies,Winner1stInning,Perth,"Feb 3, 2013",Australia,Australia,Home,Away,First,Second,54 runs
+ODI # 3332,Australia,West Indies,Winner1stInning,Canberra,"Feb 6, 2013",Australia,Australia,Home,Away,First,Second,39 runs
+ODI # 3333,Australia,West Indies,Winner2ndInning,Sydney,"Feb 8, 2013",Australia,Australia,Home,Away,Second,First,5 wickets
+ODI # 3334,Australia,West Indies,Winner1stInning,Melbourne,"Feb 10, 2013",Australia,Australia,Home,Away,First,Second,17 runs
+ODI # 3335,New Zealand,England,Winner2ndInning,Hamilton,"Feb 17, 2013",New Zealand,New Zealand,Home,Away,Second,First,3 wickets
+ODI # 3336,New Zealand,England,Winner2ndInning,Napier,"Feb 20, 2013",England,New Zealand,Home,Away,First,Second,8 wickets
+ODI # 3337,West Indies,Zimbabwe,Winner1stInning,St George's,"Feb 22, 2013",West Indies,West Indies,Home,Away,First,Second,156 runs
+ODI # 3338,New Zealand,England,Winner2ndInning,Auckland,"Feb 23, 2013",England,New Zealand,Home,Away,First,Second,5 wickets
+ODI # 3339,West Indies,Zimbabwe,Winner2ndInning,St George's,"Feb 24, 2013",West Indies,West Indies,Home,Away,Second,First,7 wickets
+ODI # 3340,West Indies,Zimbabwe,Winner2ndInning,St George's,"Feb 26, 2013",West Indies,West Indies,Home,Away,Second,First,5 wickets
+ODI # 3341,Afghanistan,Scotland,Winner2ndInning,Sharjah,"Mar 6, 2013",Afghanistan,U.A.E.,Neutral,Neutral,Second,First,7 wickets
+ODI # 3342,Afghanistan,Scotland,Winner2ndInning,Sharjah,"Mar 8, 2013",Afghanistan,U.A.E.,Neutral,Neutral,Second,First,5 wickets
+ODI # 3343,South Africa,Pakistan,Winner1stInning,Bloemfontein,"Mar 10, 2013",South Africa,South Africa,Home,Away,First,Second,125 runs
+ODI # 3344,Canada,Kenya,Winner2ndInning,ICCA Dubai,"Mar 11, 2013",Kenya,U.A.E.,Neutral,Neutral,First,Second,6 wickets
+ODI # 3345,Canada,Kenya,Winner2ndInning,ICCA Dubai,"Mar 13, 2013",Kenya,U.A.E.,Neutral,Neutral,First,Second,6 wickets
+ODI # 3346,South Africa,Pakistan,Winner2ndInning,Centurion,"Mar 15, 2013",Pakistan,South Africa,Home,Away,First,Second,6 wickets
+ODI # 3347,South Africa,Pakistan,Winner1stInning,Johannesburg,"Mar 17, 2013",South Africa,South Africa,Home,Away,First,Second,34 runs
+ODI # 3348,South Africa,Pakistan,Winner2ndInning,Durban,"Mar 21, 2013",Pakistan,South Africa,Home,Away,First,Second,3 wickets
+ODI # 3349,Sri Lanka,Bangladesh,Winner2ndInning,Hambantota,"Mar 23, 2013",Sri Lanka,Sri Lanka,Home,Away,Second,First,8 wickets
+ODI # 3350,South Africa,Pakistan,Winner2ndInning,Benoni,"Mar 24, 2013",South Africa,South Africa,Home,Away,Second,First,6 wickets
+ODI # 3352,Sri Lanka,Bangladesh,Winner2ndInning,Pallekele,"Mar 28, 2013",Bangladesh,,Neutral,Neutral,First,Second,3 wickets
+ODI # 3353,Zimbabwe,Bangladesh,Winner1stInning,Bulawayo,"May 3, 2013",Bangladesh,Zimbabwe,Home,Away,Second,First,121 runs
+ODI # 3354,Zimbabwe,Bangladesh,Winner2ndInning,Bulawayo,"May 5, 2013",Zimbabwe,Zimbabwe,Home,Away,Second,First,6 wickets
+ODI # 3355,Zimbabwe,Bangladesh,Winner2ndInning,Bulawayo,"May 8, 2013",Zimbabwe,Zimbabwe,Home,Away,Second,First,7 wickets
+ODI # 3356,Scotland,Pakistan,Winner1stInning,Edinburgh,"May 17, 2013",Pakistan,Scotland,Home,Away,Second,First,96 runs
+ODI # 3358,Ireland,Pakistan,Winner2ndInning,Dublin,"May 26, 2013",Pakistan,Ireland,Home,Away,First,Second,2 wickets
+ODI # 3359,Netherlands,South Africa,Winner1stInning,Amstelveen,"May 31, 2013",South Africa,Netherlands,Home,Away,Second,First,83 runs
+ODI # 3360,England,New Zealand,Winner2ndInning,Lord's,"May 31, 2013",New Zealand,England,Home,Away,First,Second,5 wickets
+ODI # 3361,England,New Zealand,Winner1stInning,Southampton,"Jun 2, 2013",New Zealand,England,Home,Away,Second,First,86 runs
+ODI # 3362,England,New Zealand,Winner1stInning,Nottingham,"Jun 5, 2013",England,England,Home,Away,First,Second,34 runs
+ODI # 3363,India,South Africa,Winner1stInning,Cardiff,"Jun 6, 2013",India,England,Neutral,Neutral,First,Second,26 runs
+ODI # 3364,Pakistan,West Indies,Winner2ndInning,The Oval,"Jun 7, 2013",West Indies,England,Neutral,Neutral,First,Second,2 wickets
+ODI # 3365,England,Australia,Winner1stInning,Birmingham,"Jun 8, 2013",England,England,Home,Away,First,Second,48 runs
+ODI # 3366,New Zealand,Sri Lanka,Winner2ndInning,Cardiff,"Jun 9, 2013",New Zealand,England,Neutral,Neutral,Second,First,1 wicket
+ODI # 3367,Pakistan,South Africa,Winner1stInning,Birmingham,"Jun 10, 2013",South Africa,England,Neutral,Neutral,Second,First,67 runs
+ODI # 3368,India,West Indies,Winner2ndInning,The Oval,"Jun 11, 2013",India,England,Neutral,Neutral,Second,First,8 wickets
+ODI # 3370,England,Sri Lanka,Winner2ndInning,The Oval,"Jun 13, 2013",Sri Lanka,England,Home,Away,First,Second,7 wickets
+ODI # 3372,India,Pakistan,Winner2ndInning,Birmingham,"Jun 15, 2013",India,England,Neutral,Neutral,Second,First,8 wickets
+ODI # 3373,England,New Zealand,Winner1stInning,Cardiff,"Jun 16, 2013",England,England,Home,Away,First,Second,10 runs
+ODI # 3374,Australia,Sri Lanka,Winner1stInning,The Oval,"Jun 17, 2013",Sri Lanka,England,Neutral,Neutral,Second,First,20 runs
+ODI # 3375,England,South Africa,Winner2ndInning,The Oval,"Jun 19, 2013",England,England,Home,Away,Second,First,7 wickets
+ODI # 3376,India,Sri Lanka,Winner2ndInning,Cardiff,"Jun 20, 2013",India,England,Neutral,Neutral,Second,First,8 wickets
+ODI # 3377,England,India,Winner1stInning,Birmingham,"Jun 23, 2013",India,England,Home,Away,Second,First,5 runs
+ODI # 3378,West Indies,Sri Lanka,Winner2ndInning,Kingston,"Jun 28, 2013",West Indies,West Indies,Home,Away,Second,First,6 wickets
+ODI # 3379,Scotland,Kenya,Winner1stInning,Aberdeen,"Jun 30, 2013",Scotland,Scotland,Home,Away,First,Second,12 runs
+ODI # 3380,West Indies,India,Winner2ndInning,Kingston,"Jun 30, 2013",West Indies,West Indies,Home,Away,Second,First,1 wicket
+ODI # 3381,Scotland,Kenya,Winner2ndInning,Aberdeen,"Jul 2-3, 2013",Scotland,Scotland,Home,Away,Second,First,4 wickets
+ODI # 3382,India,Sri Lanka,Winner1stInning,Kingston,"Jul 2, 2013",Sri Lanka,West Indies,Neutral,Neutral,Second,First,161 runs
+ODI # 3383,West Indies,India,Winner1stInning,Port of Spain,"Jul 5, 2013",India,West Indies,Home,Away,Second,First,102 runs
+ODI # 3384,Netherlands,Ireland,Winner1stInning,Amstelveen,"Jul 7, 2013",Ireland,Netherlands,Home,Away,Second,First,88 runs
+ODI # 3385,West Indies,Sri Lanka,Winner1stInning,Port of Spain,"Jul 7-8, 2013",Sri Lanka,West Indies,Home,Away,Second,First,39 runs
+ODI # 3387,India,Sri Lanka,Winner1stInning,Port of Spain,"Jul 9, 2013",India,West Indies,Neutral,Neutral,First,Second,81 runs
+ODI # 3388,India,Sri Lanka,Winner2ndInning,Port of Spain,"Jul 11, 2013",India,West Indies,Neutral,Neutral,Second,First,1 wicket
+ODI # 3389,West Indies,Pakistan,Winner1stInning,Providence,"Jul 14, 2013",Pakistan,West Indies,Home,Away,Second,First,126 runs
+ODI # 3390,West Indies,Pakistan,Winner1stInning,Providence,"Jul 16, 2013",West Indies,West Indies,Home,Away,First,Second,37 runs
+ODI # 3392,Sri Lanka,South Africa,Winner1stInning,Colombo,"Jul 20, 2013",Sri Lanka,Sri Lanka,Home,Away,First,Second,180 runs
+ODI # 3393,West Indies,Pakistan,Winner2ndInning,Gros Islet,"Jul 21, 2013",Pakistan,West Indies,Home,Away,First,Second,6 wickets
+ODI # 3394,Sri Lanka,South Africa,Winner1stInning,Colombo,"Jul 23, 2013",Sri Lanka,Sri Lanka,Home,Away,First,Second,17 runs
+ODI # 3395,Zimbabwe,India,Winner2ndInning,Harare,"Jul 24, 2013",India,Zimbabwe,Home,Away,First,Second,6 wickets
+ODI # 3396,West Indies,Pakistan,Winner2ndInning,Gros Islet,"Jul 24, 2013",Pakistan,West Indies,Home,Away,First,Second,4 wickets
+ODI # 3397,Zimbabwe,India,Winner1stInning,Harare,"Jul 26, 2013",India,Zimbabwe,Home,Away,Second,First,58 runs
+ODI # 3398,Sri Lanka,South Africa,Winner1stInning,Pallekele,"Jul 26, 2013",South Africa,,Neutral,Neutral,Second,First,56 runs
+ODI # 3399,Zimbabwe,India,Winner2ndInning,Harare,"Jul 28, 2013",India,Zimbabwe,Home,Away,First,Second,7 wickets
+ODI # 3400,Sri Lanka,South Africa,Winner2ndInning,Pallekele,"Jul 28, 2013",Sri Lanka,,Neutral,Neutral,Second,First,8 wickets
+ODI # 3401,Sri Lanka,South Africa,Winner1stInning,Colombo,"Jul 31, 2013",Sri Lanka,Sri Lanka,Home,Away,First,Second,128 runs
+ODI # 3402,Zimbabwe,India,Winner2ndInning,Bulawayo,"Aug 1, 2013",India,Zimbabwe,Home,Away,First,Second,9 wickets
+ODI # 3403,Zimbabwe,India,Winner2ndInning,Bulawayo,"Aug 3, 2013",India,Zimbabwe,Home,Away,First,Second,7 wickets
+ODI # 3404,Zimbabwe,Pakistan,Winner2ndInning,Harare,"Aug 27, 2013",Zimbabwe,Zimbabwe,Home,Away,Second,First,7 wickets
+ODI # 3406,Zimbabwe,Pakistan,Winner1stInning,Harare,"Aug 29, 2013",Pakistan,Zimbabwe,Home,Away,Second,First,90 runs
+ODI # 3407,Canada,Netherlands,Winner2ndInning,King City,"Aug 29, 2013",Netherlands,Canada,Home,Away,First,Second,9 wickets
+ODI # 3408,Zimbabwe,Pakistan,Winner1stInning,Harare,"Aug 31, 2013",Pakistan,Zimbabwe,Home,Away,Second,First,108 runs
+ODI # 3409,Ireland,England,Winner2ndInning,Dublin,"Sep 3, 2013",England,Ireland,Home,Away,First,Second,6 wickets
+ODI # 3410,Scotland,Australia,Winner1stInning,Edinburgh,"Sep 3, 2013",Australia,Scotland,Home,Away,Second,First,200 runs
+ODI # 3411,Ireland,Scotland,Winner2ndInning,Belfast,"Sep 6, 2013",Ireland,Ireland,Home,Away,Second,First,1 wicket
+ODI # 3412,England,Australia,Winner1stInning,Manchester,"Sep 8, 2013",Australia,England,Home,Away,Second,First,88 runs
+ODI # 3413,Ireland,Scotland,Winner2ndInning,Belfast,"Sep 8, 2013",Ireland,Ireland,Home,Away,Second,First,7 wickets
+ODI # 3415,England,Australia,Winner2ndInning,Cardiff,"Sep 14, 2013",England,England,Home,Away,Second,First,3 wickets
+ODI # 3416,England,Australia,Winner1stInning,Southampton,"Sep 16, 2013",Australia,England,Home,Away,Second,First,49 runs
+ODI # 3417,Afghanistan,Kenya,Winner2ndInning,Sharjah,"Oct 2, 2013",Afghanistan,U.A.E.,Neutral,Neutral,Second,First,8 wickets
+ODI # 3418,Afghanistan,Kenya,Winner2ndInning,Sharjah,"Oct 4, 2013",Afghanistan,U.A.E.,Neutral,Neutral,Second,First,7 wickets
+ODI # 3419,India,Australia,Winner1stInning,Pune,"Oct 13, 2013",Australia,India,Home,Away,Second,First,72 runs
+ODI # 3420,India,Australia,Winner2ndInning,Jaipur,"Oct 16, 2013",India,India,Home,Away,Second,First,9 wickets
+ODI # 3421,India,Australia,Winner2ndInning,Mohali,"Oct 19, 2013",Australia,,Neutral,Neutral,First,Second,4 wickets
+ODI # 3423,Bangladesh,New Zealand,Winner1stInning,Dhaka,"Oct 29, 2013",Bangladesh,Bangladesh,Home,Away,First,Second,43 runs
+ODI # 3424,India,Australia,Winner2ndInning,Nagpur,"Oct 30, 2013",India,India,Home,Away,Second,First,6 wickets
+ODI # 3425,Pakistan,South Africa,Winner1stInning,Sharjah,"Oct 30, 2013",South Africa,U.A.E.,Neutral,Neutral,Second,First,1 run
+ODI # 3426,Bangladesh,New Zealand,Winner1stInning,Dhaka,"Oct 31, 2013",Bangladesh,Bangladesh,Home,Away,First,Second,40 runs
+ODI # 3427,Pakistan,South Africa,Winner1stInning,Dubai,"Nov 1, 2013",Pakistan,U.A.E.,Neutral,Neutral,First,Second,66 runs
+ODI # 3428,India,Australia,Winner1stInning,Bengaluru,"Nov 2, 2013",India,India,Home,Away,First,Second,57 runs
+ODI # 3429,Bangladesh,New Zealand,Winner2ndInning,Fatullah,"Nov 3, 2013",Bangladesh,Bangladesh,Home,Away,Second,First,4 wickets
+ODI # 3430,Pakistan,South Africa,Winner1stInning,Abu Dhabi,"Nov 6, 2013",South Africa,U.A.E.,Neutral,Neutral,Second,First,68 runs
+ODI # 3431,Pakistan,South Africa,Winner1stInning,Abu Dhabi,"Nov 8, 2013",South Africa,U.A.E.,Neutral,Neutral,Second,First,28 runs
+ODI # 3433,Pakistan,South Africa,Winner1stInning,Sharjah,"Nov 11, 2013",South Africa,U.A.E.,Neutral,Neutral,Second,First,117 runs
+ODI # 3434,Sri Lanka,New Zealand,Winner2ndInning,Hambantota,"Nov 12, 2013",New Zealand,Sri Lanka,Home,Away,First,Second,4 wickets
+ODI # 3435,Sri Lanka,New Zealand,Winner1stInning,Dambulla,"Nov 16, 2013",Sri Lanka,Sri Lanka,Home,Away,First,Second,36 runs
+ODI # 3436,India,West Indies,Winner2ndInning,Kochi,"Nov 21, 2013",India,India,Home,Away,Second,First,6 wickets
+ODI # 3437,India,West Indies,Winner2ndInning,Visakhapatnam,"Nov 24, 2013",West Indies,India,Home,Away,First,Second,2 wickets
+ODI # 3438,South Africa,Pakistan,Winner1stInning,Cape Town,"Nov 24, 2013",Pakistan,South Africa,Home,Away,Second,First,23 runs
+ODI # 3439,India,West Indies,Winner2ndInning,Kanpur,"Nov 27, 2013",India,India,Home,Away,Second,First,5 wickets
+ODI # 3440,South Africa,Pakistan,Winner1stInning,Port Elizabeth,"Nov 27, 2013",Pakistan,South Africa,Home,Away,Second,First,1 run
+ODI # 3441,South Africa,Pakistan,Winner2ndInning,Centurion,"Nov 30, 2013",South Africa,South Africa,Home,Away,Second,First,4 wickets
+ODI # 3442,South Africa,India,Winner1stInning,Johannesburg,"Dec 5, 2013",South Africa,South Africa,Home,Away,First,Second,141 runs
+ODI # 3443,South Africa,India,Winner1stInning,Durban,"Dec 8, 2013",South Africa,South Africa,Home,Away,First,Second,134 runs
+ODI # 3445,Pakistan,Sri Lanka,Winner1stInning,Sharjah,"Dec 18, 2013",Pakistan,U.A.E.,Neutral,Neutral,First,Second,11 runs
+ODI # 3446,Pakistan,Sri Lanka,Winner2ndInning,Dubai,"Dec 20, 2013",Sri Lanka,U.A.E.,Neutral,Neutral,First,Second,2 wickets
+ODI # 3447,Pakistan,Sri Lanka,Winner1stInning,Sharjah,"Dec 22, 2013",Pakistan,U.A.E.,Neutral,Neutral,First,Second,113 runs
+ODI # 3448,Pakistan,Sri Lanka,Winner2ndInning,Abu Dhabi,"Dec 25, 2013",Pakistan,U.A.E.,Neutral,Neutral,Second,First,8 wickets
+ODI # 3449,New Zealand,West Indies,Winner2ndInning,Auckland,"Dec 26, 2013",West Indies,New Zealand,Home,Away,First,Second,2 wickets
+ODI # 3450,Pakistan,Sri Lanka,Winner2ndInning,Abu Dhabi,"Dec 27, 2013",Sri Lanka,U.A.E.,Neutral,Neutral,First,Second,2 wickets
+ODI # 3451,New Zealand,West Indies,Winner1stInning,Queenstown,"Jan 1, 2014",New Zealand,New Zealand,Home,Away,First,Second,159 runs
+ODI # 3452,New Zealand,West Indies,Winner1stInning,Nelson,"Jan 4, 2014",New Zealand,New Zealand,Home,Away,First,Second,58 runs
+ODI # 3453,New Zealand,West Indies,Winner1stInning,Hamilton,"Jan 8, 2014",West Indies,New Zealand,Home,Away,Second,First,203 runs
+ODI # 3454,Australia,England,Winner2ndInning,Melbourne,"Jan 12, 2014",Australia,Australia,Home,Away,Second,First,6 wickets
+ODI # 3455,Australia,England,Winner2ndInning,Brisbane,"Jan 17, 2014",Australia,Australia,Home,Away,Second,First,1 wicket
+ODI # 3456,New Zealand,India,Winner1stInning,Napier,"Jan 19, 2014",New Zealand,New Zealand,Home,Away,First,Second,24 runs
+ODI # 3457,Australia,England,Winner2ndInning,Sydney,"Jan 19, 2014",Australia,Australia,Home,Away,Second,First,7 wickets
+ODI # 3458,New Zealand,India,Winner1stInning,Hamilton,"Jan 22, 2014",New Zealand,New Zealand,Home,Away,First,Second,15 runs
+ODI # 3459,Canada,Scotland,Winner1stInning,Christchurch,"Jan 23, 2014",Scotland,New Zealand,Neutral,Neutral,Second,First,170 runs
+ODI # 3460,Kenya,Netherlands,Winner2ndInning,Lincoln,"Jan 23, 2014",Kenya,New Zealand,Neutral,Neutral,Second,First,4 wickets
+ODI # 3461,Australia,England,Winner1stInning,Perth,"Jan 24, 2014",England,Australia,Home,Away,Second,First,57 runs
+ODI # 3463,Australia,England,Winner1stInning,Adelaide,"Jan 26, 2014",Australia,Australia,Home,Away,First,Second,5 runs
+ODI # 3464,Canada,Netherlands,Winner2ndInning,Mount Maunganui,"Jan 28, 2014",Netherlands,New Zealand,Neutral,Neutral,First,Second,8 wickets
+ODI # 3465,New Zealand,India,Winner2ndInning,Hamilton,"Jan 28, 2014",New Zealand,New Zealand,Home,Away,Second,First,7 wickets
+ODI # 3466,Kenya,Scotland,Winner2ndInning,Christchurch,"Jan 30, 2014",Scotland,New Zealand,Neutral,Neutral,First,Second,3 wickets
+ODI # 3467,New Zealand,India,Winner1stInning,Wellington,"Jan 31, 2014",New Zealand,New Zealand,Home,Away,First,Second,87 runs
+ODI # 3468,Scotland,U.A.E.,Winner1stInning,Lincoln,"Feb 1, 2014",Scotland,New Zealand,Neutral,Neutral,First,Second,41 runs
+ODI # 3469,Bangladesh,Sri Lanka,Winner1stInning,Dhaka,"Feb 17, 2014",Sri Lanka,Bangladesh,Home,Away,Second,First,13 runs
+ODI # 3470,Bangladesh,Sri Lanka,Winner1stInning,Dhaka,"Feb 20, 2014",Sri Lanka,Bangladesh,Home,Away,Second,First,61 runs
+ODI # 3471,Bangladesh,Sri Lanka,Winner2ndInning,Dhaka,"Feb 22, 2014",Sri Lanka,Bangladesh,Home,Away,First,Second,6 wickets
+ODI # 3472,West Indies,Ireland,Winner2ndInning,Kingston,"Feb 23, 2014",West Indies,West Indies,Home,Away,Second,First,4 wickets
+ODI # 3473,Pakistan,Sri Lanka,Winner1stInning,Fatullah,"Feb 25, 2014",Sri Lanka,Bangladesh,Neutral,Neutral,Second,First,12 runs
+ODI # 3474,Bangladesh,India,Winner2ndInning,Fatullah,"Feb 26, 2014",India,Bangladesh,Home,Away,First,Second,6 wickets
+ODI # 3475,Afghanistan,Pakistan,Winner1stInning,Fatullah,"Feb 27, 2014",Pakistan,Bangladesh,Neutral,Neutral,Second,First,72 runs
+ODI # 3476,India,Sri Lanka,Winner2ndInning,Fatullah,"Feb 28, 2014",Sri Lanka,Bangladesh,Neutral,Neutral,First,Second,2 wickets
+ODI # 3477,West Indies,England,Winner1stInning,North Sound,"Feb 28, 2014",West Indies,West Indies,Home,Away,First,Second,15 runs
+ODI # 3478,Bangladesh,Afghanistan,Winner1stInning,Fatullah,"Mar 1, 2014",Afghanistan,Bangladesh,Home,Away,Second,First,32 runs
+ODI # 3479,India,Pakistan,Winner2ndInning,Dhaka,"Mar 2, 2014",Pakistan,Bangladesh,Neutral,Neutral,First,Second,1 wicket
+ODI # 3480,West Indies,England,Winner2ndInning,North Sound,"Mar 2, 2014",England,West Indies,Home,Away,First,Second,3 wickets
+ODI # 3481,Afghanistan,Sri Lanka,Winner1stInning,Dhaka,"Mar 3, 2014",Sri Lanka,Bangladesh,Neutral,Neutral,Second,First,129 runs
+ODI # 3482,Bangladesh,Pakistan,Winner2ndInning,Dhaka,"Mar 4, 2014",Pakistan,Bangladesh,Home,Away,First,Second,3 wickets
+ODI # 3483,Afghanistan,India,Winner2ndInning,Dhaka,"Mar 5, 2014",India,Bangladesh,Neutral,Neutral,First,Second,8 wickets
+ODI # 3484,West Indies,England,Winner1stInning,North Sound,"Mar 5, 2014",England,West Indies,Home,Away,Second,First,25 runs
+ODI # 3485,Bangladesh,Sri Lanka,Winner2ndInning,Dhaka,"Mar 6, 2014",Sri Lanka,Bangladesh,Home,Away,First,Second,3 wickets
+ODI # 3486,Pakistan,Sri Lanka,Winner2ndInning,Dhaka,"Mar 8, 2014",Sri Lanka,Bangladesh,Neutral,Neutral,First,Second,5 wickets
+ODI # 3487,Afghanistan,Hong Kong,Winner2ndInning,Kuala Lumpur,"May 1, 2014",Afghanistan,Malaysia,Neutral,Neutral,Second,First,6 wickets
+ODI # 3488,Afghanistan,U.A.E.,Winner1stInning,Kuala Lumpur,"May 2, 2014",Afghanistan,Malaysia,Neutral,Neutral,First,Second,70 runs
+ODI # 3489,Hong Kong,U.A.E.,Winner2ndInning,Kuala Lumpur,"May 4, 2014",U.A.E.,Malaysia,Neutral,Neutral,First,Second,2 wickets
+ODI # 3490,Ireland,Sri Lanka,Winner1stInning,Dublin,"May 6, 2014",Sri Lanka,Ireland,Home,Away,Second,First,79 runs
+ODI # 3491,Scotland,England,Winner1stInning,Aberdeen,"May 9, 2014",England,Scotland,Home,Away,Second,First,39 runs
+ODI # 3492,England,Sri Lanka,Winner1stInning,The Oval,"May 22, 2014",England,England,Home,Away,First,Second,81 runs
+ODI # 3493,England,Sri Lanka,Winner1stInning,Chester,"May 25, 2014",Sri Lanka,England,Home,Away,Second,First,157 runs
+ODI # 3494,England,Sri Lanka,Winner2ndInning,Manchester,"May 28, 2014",England,England,Home,Away,Second,First,10 wickets
+ODI # 3495,England,Sri Lanka,Winner1stInning,Lord's,"May 31, 2014",Sri Lanka,England,Home,Away,Second,First,7 runs
+ODI # 3496,England,Sri Lanka,Winner2ndInning,Birmingham,"Jun 3, 2014",Sri Lanka,England,Home,Away,First,Second,6 wickets
+ODI # 3497,Bangladesh,India,Winner2ndInning,Dhaka,"Jun 15, 2014",India,Bangladesh,Home,Away,First,Second,7 wickets
+ODI # 3498,Bangladesh,India,Winner1stInning,Dhaka,"Jun 17, 2014",India,Bangladesh,Home,Away,Second,First,47 runs
+ODI # 3500,Sri Lanka,South Africa,Winner1stInning,Colombo,"Jul 6, 2014",South Africa,Sri Lanka,Home,Away,Second,First,75 runs
+ODI # 3501,Sri Lanka,South Africa,Winner1stInning,Pallekele,"Jul 9, 2014",Sri Lanka,,Neutral,Neutral,First,Second,87 runs
+ODI # 3502,Sri Lanka,South Africa,Winner1stInning,Hambantota,"Jul 12, 2014",South Africa,Sri Lanka,Home,Away,Second,First,82 runs
+ODI # 3503,Zimbabwe,Afghanistan,Winner2ndInning,Bulawayo,"Jul 18, 2014",Zimbabwe,Zimbabwe,Home,Away,Second,First,6 wickets
+ODI # 3504,Zimbabwe,Afghanistan,Winner2ndInning,Bulawayo,"Jul 20, 2014",Zimbabwe,Zimbabwe,Home,Away,Second,First,8 wickets
+ODI # 3505,Zimbabwe,Afghanistan,Winner2ndInning,Bulawayo,"Jul 22, 2014",Afghanistan,Zimbabwe,Home,Away,First,Second,2 wickets
+ODI # 3506,Zimbabwe,Afghanistan,Winner1stInning,Bulawayo,"Jul 24, 2014",Afghanistan,Zimbabwe,Home,Away,Second,First,100 runs
+ODI # 3507,Zimbabwe,South Africa,Winner1stInning,Bulawayo,"Aug 17, 2014",South Africa,Zimbabwe,Home,Away,Second,First,93 runs
+ODI # 3508,Zimbabwe,South Africa,Winner1stInning,Bulawayo,"Aug 19, 2014",South Africa,Zimbabwe,Home,Away,Second,First,61 runs
+ODI # 3509,West Indies,Bangladesh,Winner2ndInning,St George's,"Aug 20, 2014",West Indies,West Indies,Home,Away,Second,First,3 wickets
+ODI # 3510,Zimbabwe,South Africa,Winner2ndInning,Bulawayo,"Aug 21, 2014",South Africa,Zimbabwe,Home,Away,First,Second,7 wickets
+ODI # 3511,West Indies,Bangladesh,Winner1stInning,St George's,"Aug 22, 2014",West Indies,West Indies,Home,Away,First,Second,177 runs
+ODI # 3512,Sri Lanka,Pakistan,Winner2ndInning,Hambantota,"Aug 23, 2014",Pakistan,Sri Lanka,Home,Away,First,Second,4 wickets
+ODI # 3513,Zimbabwe,Australia,Winner1stInning,Harare,"Aug 25, 2014",Australia,Zimbabwe,Home,Away,Second,First,198 runs
+ODI # 3514,West Indies,Bangladesh,Winner1stInning,Basseterre,"Aug 25, 2014",West Indies,West Indies,Home,Away,First,Second,91 runs
+ODI # 3515,Sri Lanka,Pakistan,Winner1stInning,Hambantota,"Aug 26, 2014",Sri Lanka,Sri Lanka,Home,Away,First,Second,77 runs
+ODI # 3516,Australia,South Africa,Winner2ndInning,Harare,"Aug 27, 2014",South Africa,Zimbabwe,Neutral,Neutral,First,Second,7 wickets
+ODI # 3517,England,India,Winner1stInning,Cardiff,"Aug 27, 2014",India,England,Home,Away,Second,First,133 runs
+ODI # 3518,Zimbabwe,South Africa,Winner1stInning,Harare,"Aug 29, 2014",South Africa,Zimbabwe,Home,Away,Second,First,61 runs
+ODI # 3519,Sri Lanka,Pakistan,Winner2ndInning,Dambulla,"Aug 30, 2014",Sri Lanka,Sri Lanka,Home,Away,Second,First,7 wickets
+ODI # 3520,England,India,Winner2ndInning,Nottingham,"Aug 30, 2014",India,England,Home,Away,First,Second,6 wickets
+ODI # 3521,Zimbabwe,Australia,Winner2ndInning,Harare,"Aug 31, 2014",Zimbabwe,Zimbabwe,Home,Away,Second,First,3 wickets
+ODI # 3522,Australia,South Africa,Winner1stInning,Harare,"Sep 2, 2014",Australia,Zimbabwe,Neutral,Neutral,First,Second,62 runs
+ODI # 3523,England,India,Winner2ndInning,Birmingham,"Sep 2, 2014",India,England,Home,Away,First,Second,9 wickets
+ODI # 3524,Zimbabwe,South Africa,Winner1stInning,Harare,"Sep 4, 2014",South Africa,Zimbabwe,Home,Away,Second,First,63 runs
+ODI # 3525,England,India,Winner1stInning,Leeds,"Sep 5, 2014",England,England,Home,Away,First,Second,41 runs
+ODI # 3526,Australia,South Africa,Winner2ndInning,Harare,"Sep 6, 2014",South Africa,Zimbabwe,Neutral,Neutral,First,Second,6 wickets
+ODI # 3527,Ireland,Scotland,Winner2ndInning,Dublin,"Sep 8, 2014",Ireland,Ireland,Home,Away,Second,First,7 wickets
+ODI # 3528,Ireland,Scotland,Winner2ndInning,Dublin,"Sep 10, 2014",Ireland,Ireland,Home,Away,Second,First,3 wickets
+ODI # 3529,Ireland,Scotland,Winner2ndInning,Dublin,"Sep 12, 2014",Scotland,Ireland,Home,Away,First,Second,8 wickets
+ODI # 3530,Australia,Pakistan,Winner1stInning,Sharjah,"Oct 7, 2014",Australia,U.A.E.,Neutral,Neutral,First,Second,93 runs
+ODI # 3531,India,West Indies,Winner1stInning,Kochi,"Oct 8, 2014",West Indies,India,Home,Away,Second,First,124 runs
+ODI # 3532,Australia,Pakistan,Winner2ndInning,Dubai,"Oct 10, 2014",Australia,U.A.E.,Neutral,Neutral,Second,First,5 wickets
+ODI # 3533,India,West Indies,Winner1stInning,Delhi,"Oct 11, 2014",India,India,Home,Away,First,Second,48 runs
+ODI # 3534,Australia,Pakistan,Winner1stInning,Abu Dhabi,"Oct 12, 2014",Australia,U.A.E.,Neutral,Neutral,First,Second,1 run
+ODI # 3535,India,West Indies,Winner1stInning,Dharamsala,"Oct 17, 2014",India,India,Home,Away,First,Second,59 runs
+ODI # 3536,New Zealand,South Africa,Winner2ndInning,Mount Maunganui,"Oct 21, 2014",South Africa,New Zealand,Home,Away,First,Second,6 wickets
+ODI # 3537,New Zealand,South Africa,Winner1stInning,Mount Maunganui,"Oct 24, 2014",South Africa,New Zealand,Home,Away,Second,First,72 runs
+ODI # 3539,India,Sri Lanka,Winner1stInning,Cuttack,"Nov 2, 2014",India,India,Home,Away,First,Second,169 runs
+ODI # 3540,India,Sri Lanka,Winner2ndInning,Ahmedabad,"Nov 6, 2014",India,India,Home,Away,Second,First,6 wickets
+ODI # 3541,Hong Kong,P.N.G.,Winner2ndInning,Townsville,"Nov 8, 2014",P.N.G.,Australia,Neutral,Neutral,First,Second,4 wickets
+ODI # 3542,Hong Kong,P.N.G.,Winner2ndInning,Townsville,"Nov 9, 2014",P.N.G.,Australia,Neutral,Neutral,First,Second,3 wickets
+ODI # 3543,India,Sri Lanka,Winner2ndInning,Hyderabad,"Nov 9, 2014",India,India,Home,Away,Second,First,6 wickets
+ODI # 3544,India,Sri Lanka,Winner1stInning,Kolkata,"Nov 13, 2014",India,India,Home,Away,First,Second,153 runs
+ODI # 3545,Australia,South Africa,Winner1stInning,Perth,"Nov 14, 2014",Australia,Australia,Home,Away,First,Second,32 runs
+ODI # 3546,Australia,South Africa,Winner2ndInning,Perth,"Nov 16, 2014",South Africa,Australia,Home,Away,First,Second,3 wickets
+ODI # 3547,India,Sri Lanka,Winner2ndInning,Ranchi,"Nov 16, 2014",India,India,Home,Away,Second,First,3 wickets
+ODI # 3548,Australia,South Africa,Winner1stInning,Canberra,"Nov 19, 2014",Australia,Australia,Home,Away,First,Second,73 runs
+ODI # 3549,Australia,South Africa,Winner2ndInning,Melbourne,"Nov 21, 2014",Australia,Australia,Home,Away,Second,First,3 wickets
+ODI # 3550,Bangladesh,Zimbabwe,Winner1stInning,Chittagong,"Nov 21, 2014",Bangladesh,Bangladesh,Home,Away,First,Second,87 runs
+ODI # 3551,Australia,South Africa,Winner2ndInning,Sydney,"Nov 23, 2014",Australia,Australia,Home,Away,Second,First,2 wickets
+ODI # 3552,Bangladesh,Zimbabwe,Winner1stInning,Chittagong,"Nov 23, 2014",Bangladesh,Bangladesh,Home,Away,First,Second,68 runs
+ODI # 3553,Bangladesh,Zimbabwe,Winner1stInning,Dhaka,"Nov 26, 2014",Bangladesh,Bangladesh,Home,Away,First,Second,124 runs
+ODI # 3554,Sri Lanka,England,Winner1stInning,Colombo,"Nov 26, 2014",Sri Lanka,Sri Lanka,Home,Away,First,Second,25 runs
+ODI # 3555,Bangladesh,Zimbabwe,Winner1stInning,Dhaka,"Nov 28, 2014",Bangladesh,Bangladesh,Home,Away,First,Second,21 runs
+ODI # 3556,U.A.E.,Afghanistan,Winner2ndInning,ICCA Dubai,"Nov 28, 2014",U.A.E.,U.A.E.,Home,Away,Second,First,5 wickets
+ODI # 3557,Sri Lanka,England,Winner2ndInning,Colombo,"Nov 29, 2014",Sri Lanka,Sri Lanka,Home,Away,Second,First,8 wickets
+ODI # 3558,U.A.E.,Afghanistan,Winner2ndInning,ICCA Dubai,"Nov 30, 2014",U.A.E.,U.A.E.,Home,Away,Second,First,6 wickets
+ODI # 3559,Bangladesh,Zimbabwe,Winner2ndInning,Dhaka,"Dec 1, 2014",Bangladesh,Bangladesh,Home,Away,Second,First,5 wickets
+ODI # 3560,U.A.E.,Afghanistan,Winner2ndInning,ICCA Dubai,"Dec 2, 2014",Afghanistan,U.A.E.,Home,Away,First,Second,2 wickets
+ODI # 3561,Sri Lanka,England,Winner2ndInning,Hambantota,"Dec 3, 2014",England,Sri Lanka,Home,Away,First,Second,5 wickets
+ODI # 3562,U.A.E.,Afghanistan,Winner1stInning,ICCA Dubai,"Dec 4, 2014",U.A.E.,U.A.E.,Home,Away,First,Second,30 runs
+ODI # 3563,Sri Lanka,England,Winner2ndInning,Colombo,"Dec 7, 2014",Sri Lanka,Sri Lanka,Home,Away,Second,First,6 wickets
+ODI # 3564,New Zealand,Pakistan,Winner2ndInning,Dubai,"Dec 8, 2014",Pakistan,U.A.E.,Neutral,Neutral,First,Second,3 wickets
+ODI # 3565,Sri Lanka,England,Winner2ndInning,Pallekele,"Dec 10-11, 2014",England,,Neutral,Neutral,First,Second,5 wickets
+ODI # 3566,New Zealand,Pakistan,Winner2ndInning,Sharjah,"Dec 12, 2014",New Zealand,U.A.E.,Neutral,Neutral,Second,First,4 wickets
+ODI # 3567,Sri Lanka,England,Winner1stInning,Pallekele,"Dec 13, 2014",Sri Lanka,,Neutral,Neutral,First,Second,90 runs
+ODI # 3568,New Zealand,Pakistan,Winner1stInning,Sharjah,"Dec 14, 2014",Pakistan,U.A.E.,Neutral,Neutral,Second,First,147 runs
+ODI # 3569,Sri Lanka,England,Winner1stInning,Colombo,"Dec 16, 2014",Sri Lanka,Sri Lanka,Home,Away,First,Second,87 runs
+ODI # 3570,New Zealand,Pakistan,Winner1stInning,Abu Dhabi,"Dec 17, 2014",New Zealand,U.A.E.,Neutral,Neutral,First,Second,7 runs
+ODI # 3571,New Zealand,Pakistan,Winner1stInning,Abu Dhabi,"Dec 19, 2014",New Zealand,U.A.E.,Neutral,Neutral,First,Second,68 runs
+ODI # 3572,Afghanistan,Scotland,Winner2ndInning,ICCA Dubai,"Jan 8, 2015",Afghanistan,U.A.E.,Neutral,Neutral,Second,First,8 wickets
+ODI # 3573,Afghanistan,Ireland,Winner2ndInning,Dubai,"Jan 10, 2015",Ireland,U.A.E.,Neutral,Neutral,First,Second,3 wickets
+ODI # 3574,New Zealand,Sri Lanka,Winner2ndInning,Christchurch,"Jan 11, 2015",New Zealand,New Zealand,Home,Away,Second,First,3 wickets
+ODI # 3575,Ireland,Scotland,Winner2ndInning,Dubai,"Jan 12, 2015",Ireland,U.A.E.,Neutral,Neutral,Second,First,3 wickets
+ODI # 3576,Afghanistan,Scotland,Winner1stInning,Abu Dhabi,"Jan 14, 2015",Scotland,U.A.E.,Neutral,Neutral,Second,First,150 runs
+ODI # 3577,New Zealand,Sri Lanka,Winner2ndInning,Hamilton,"Jan 15, 2015",Sri Lanka,New Zealand,Home,Away,First,Second,6 wickets
+ODI # 3578,Australia,England,Winner2ndInning,Sydney,"Jan 16, 2015",Australia,Australia,Home,Away,Second,First,3 wickets
+ODI # 3579,South Africa,West Indies,Winner1stInning,Durban,"Jan 16, 2015",South Africa,South Africa,Home,Away,First,Second,61 runs
+ODI # 3581,Afghanistan,Ireland,Winner1stInning,Dubai,"Jan 17, 2015",Afghanistan,U.A.E.,Neutral,Neutral,First,Second,71 runs
+ODI # 3582,Australia,India,Winner2ndInning,Melbourne,"Jan 18, 2015",Australia,Australia,Home,Away,Second,First,4 wickets
+ODI # 3583,South Africa,West Indies,Winner1stInning,Johannesburg,"Jan 18, 2015",South Africa,South Africa,Home,Away,First,Second,148 runs
+ODI # 3585,New Zealand,Sri Lanka,Winner2ndInning,Nelson,"Jan 20, 2015",New Zealand,New Zealand,Home,Away,Second,First,4 wickets
+ODI # 3586,England,India,Winner2ndInning,Brisbane,"Jan 20, 2015",England,Australia,Neutral,Neutral,Second,First,9 wickets
+ODI # 3587,South Africa,West Indies,Winner2ndInning,East London,"Jan 21, 2015",South Africa,South Africa,Home,Away,Second,First,9 wickets
+ODI # 3588,New Zealand,Sri Lanka,Winner1stInning,Dunedin,"Jan 23, 2015",New Zealand,New Zealand,Home,Away,First,Second,108 runs
+ODI # 3589,Australia,England,Winner2ndInning,Hobart,"Jan 23, 2015",Australia,Australia,Home,Away,Second,First,3 wickets
+ODI # 3590,New Zealand,Sri Lanka,Winner1stInning,Dunedin,"Jan 25, 2015",New Zealand,New Zealand,Home,Away,First,Second,120 runs
+ODI # 3591,South Africa,West Indies,Winner2ndInning,Port Elizabeth,"Jan 25, 2015",West Indies,South Africa,Home,Away,First,Second,1 wicket
+ODI # 3593,South Africa,West Indies,Winner1stInning,Centurion,"Jan 28, 2015",South Africa,South Africa,Home,Away,First,Second,131 runs
+ODI # 3594,New Zealand,Sri Lanka,Winner1stInning,Wellington,"Jan 29, 2015",Sri Lanka,New Zealand,Home,Away,Second,First,34 runs
+ODI # 3595,England,India,Winner2ndInning,Perth,"Jan 30, 2015",England,Australia,Neutral,Neutral,Second,First,3 wickets
+ODI # 3596,New Zealand,Pakistan,Winner2ndInning,Wellington,"Jan 31, 2015",New Zealand,New Zealand,Home,Away,Second,First,7 wickets
+ODI # 3597,Australia,England,Winner1stInning,Perth,"Feb 1, 2015",Australia,Australia,Home,Away,First,Second,112 runs
+ODI # 3598,New Zealand,Pakistan,Winner1stInning,Napier,"Feb 3, 2015",New Zealand,New Zealand,Home,Away,First,Second,119 runs
+ODI # 3599,New Zealand,Sri Lanka,Winner1stInning,Christchurch,"Feb 14, 2015",New Zealand,New Zealand,Home,Away,First,Second,98 runs
+ODI # 3600,Australia,England,Winner1stInning,Melbourne,"Feb 14, 2015",Australia,Australia,Home,Away,First,Second,111 runs
+ODI # 3601,South Africa,Zimbabwe,Winner1stInning,Hamilton,"Feb 15, 2015",South Africa,New Zealand,Neutral,Neutral,First,Second,62 runs
+ODI # 3602,India,Pakistan,Winner1stInning,Adelaide,"Feb 15, 2015",India,Australia,Neutral,Neutral,First,Second,76 runs
+ODI # 3603,Ireland,West Indies,Winner2ndInning,Nelson,"Feb 16, 2015",Ireland,New Zealand,Neutral,Neutral,Second,First,4 wickets
+ODI # 3604,New Zealand,Scotland,Winner2ndInning,Dunedin,"Feb 17, 2015",New Zealand,New Zealand,Home,Away,Second,First,3 wickets
+ODI # 3605,Afghanistan,Bangladesh,Winner1stInning,Canberra,"Feb 18, 2015",Bangladesh,Australia,Neutral,Neutral,Second,First,105 runs
+ODI # 3606,U.A.E.,Zimbabwe,Winner2ndInning,Nelson,"Feb 19, 2015",Zimbabwe,New Zealand,Neutral,Neutral,First,Second,4 wickets
+ODI # 3607,New Zealand,England,Winner2ndInning,Wellington,"Feb 20, 2015",New Zealand,New Zealand,Home,Away,Second,First,8 wickets
+ODI # 3608,Pakistan,West Indies,Winner1stInning,Christchurch,"Feb 21, 2015",West Indies,New Zealand,Neutral,Neutral,Second,First,150 runs
+ODI # 3609,Afghanistan,Sri Lanka,Winner2ndInning,Dunedin,"Feb 22, 2015",Sri Lanka,New Zealand,Neutral,Neutral,First,Second,4 wickets
+ODI # 3610,India,South Africa,Winner1stInning,Melbourne,"Feb 22, 2015",India,Australia,Neutral,Neutral,First,Second,130 runs
+ODI # 3611,England,Scotland,Winner1stInning,Christchurch,"Feb 23, 2015",England,New Zealand,Neutral,Neutral,First,Second,119 runs
+ODI # 3612,West Indies,Zimbabwe,Winner1stInning,Canberra,"Feb 24, 2015",West Indies,Australia,Neutral,Neutral,First,Second,73 runs
+ODI # 3613,Ireland,U.A.E.,Winner2ndInning,Brisbane,"Feb 25, 2015",Ireland,Australia,Neutral,Neutral,Second,First,2 wickets
+ODI # 3614,Afghanistan,Scotland,Winner2ndInning,Dunedin,"Feb 26, 2015",Afghanistan,New Zealand,Neutral,Neutral,Second,First,1 wicket
+ODI # 3615,Bangladesh,Sri Lanka,Winner1stInning,Melbourne,"Feb 26, 2015",Sri Lanka,Australia,Neutral,Neutral,Second,First,92 runs
+ODI # 3616,South Africa,West Indies,Winner1stInning,Sydney,"Feb 27, 2015",South Africa,Australia,Neutral,Neutral,First,Second,257 runs
+ODI # 3617,New Zealand,Australia,Winner2ndInning,Auckland,"Feb 28, 2015",New Zealand,New Zealand,Home,Away,Second,First,1 wicket
+ODI # 3618,India,U.A.E.,Winner2ndInning,Perth,"Feb 28, 2015",India,Australia,Neutral,Neutral,Second,First,9 wickets
+ODI # 3619,England,Sri Lanka,Winner2ndInning,Wellington,"Mar 1, 2015",Sri Lanka,New Zealand,Neutral,Neutral,First,Second,9 wickets
+ODI # 3620,Pakistan,Zimbabwe,Winner1stInning,Brisbane,"Mar 1, 2015",Pakistan,Australia,Neutral,Neutral,First,Second,20 runs
+ODI # 3621,Ireland,South Africa,Winner1stInning,Canberra,"Mar 3, 2015",South Africa,Australia,Neutral,Neutral,Second,First,201 runs
+ODI # 3622,Pakistan,U.A.E.,Winner1stInning,Napier,"Mar 4, 2015",Pakistan,New Zealand,Neutral,Neutral,First,Second,129 runs
+ODI # 3623,Australia,Afghanistan,Winner1stInning,Perth,"Mar 4, 2015",Australia,Australia,Home,Away,First,Second,275 runs
+ODI # 3624,Bangladesh,Scotland,Winner2ndInning,Nelson,"Mar 5, 2015",Bangladesh,New Zealand,Neutral,Neutral,Second,First,6 wickets
+ODI # 3625,India,West Indies,Winner2ndInning,Perth,"Mar 6, 2015",India,Australia,Neutral,Neutral,Second,First,4 wickets
+ODI # 3626,Pakistan,South Africa,Winner1stInning,Auckland,"Mar 7, 2015",Pakistan,New Zealand,Neutral,Neutral,First,Second,29 runs
+ODI # 3627,Ireland,Zimbabwe,Winner1stInning,Hobart,"Mar 7, 2015",Ireland,Australia,Neutral,Neutral,First,Second,5 runs
+ODI # 3628,New Zealand,Afghanistan,Winner2ndInning,Napier,"Mar 8, 2015",New Zealand,New Zealand,Home,Away,Second,First,6 wickets
+ODI # 3629,Australia,Sri Lanka,Winner1stInning,Sydney,"Mar 8, 2015",Australia,Australia,Home,Away,First,Second,64 runs
+ODI # 3630,Bangladesh,England,Winner1stInning,Adelaide,"Mar 9, 2015",Bangladesh,Australia,Neutral,Neutral,First,Second,15 runs
+ODI # 3631,India,Ireland,Winner2ndInning,Hamilton,"Mar 10, 2015",India,New Zealand,Neutral,Neutral,Second,First,8 wickets
+ODI # 3632,Scotland,Sri Lanka,Winner1stInning,Hobart,"Mar 11, 2015",Sri Lanka,Australia,Neutral,Neutral,Second,First,148 runs
+ODI # 3633,South Africa,U.A.E.,Winner1stInning,Wellington,"Mar 12, 2015",South Africa,New Zealand,Neutral,Neutral,First,Second,146 runs
+ODI # 3634,New Zealand,Bangladesh,Winner2ndInning,Hamilton,"Mar 13, 2015",New Zealand,New Zealand,Home,Away,Second,First,3 wickets
+ODI # 3635,Afghanistan,England,Winner2ndInning,Sydney,"Mar 13, 2015",England,Australia,Neutral,Neutral,First,Second,9 wickets
+ODI # 3636,India,Zimbabwe,Winner2ndInning,Auckland,"Mar 14, 2015",India,New Zealand,Neutral,Neutral,Second,First,6 wickets
+ODI # 3637,Australia,Scotland,Winner2ndInning,Hobart,"Mar 14, 2015",Australia,Australia,Home,Away,Second,First,7 wickets
+ODI # 3638,U.A.E.,West Indies,Winner2ndInning,Napier,"Mar 15, 2015",West Indies,New Zealand,Neutral,Neutral,First,Second,6 wickets
+ODI # 3639,Ireland,Pakistan,Winner2ndInning,Adelaide,"Mar 15, 2015",Pakistan,Australia,Neutral,Neutral,First,Second,7 wickets
+ODI # 3640,South Africa,Sri Lanka,Winner2ndInning,Sydney,"Mar 18, 2015",South Africa,Australia,Neutral,Neutral,Second,First,9 wickets
+ODI # 3641,Bangladesh,India,Winner1stInning,Melbourne,"Mar 19, 2015",India,Australia,Neutral,Neutral,Second,First,109 runs
+ODI # 3642,Australia,Pakistan,Winner2ndInning,Adelaide,"Mar 20, 2015",Australia,Australia,Home,Away,Second,First,6 wickets
+ODI # 3643,New Zealand,West Indies,Winner1stInning,Wellington,"Mar 21, 2015",New Zealand,New Zealand,Home,Away,First,Second,143 runs
+ODI # 3644,New Zealand,South Africa,Winner2ndInning,Auckland,"Mar 24, 2015",New Zealand,New Zealand,Home,Away,Second,First,4 wickets
+ODI # 3645,Australia,India,Winner1stInning,Sydney,"Mar 26, 2015",Australia,Australia,Home,Away,First,Second,95 runs
+ODI # 3646,Australia,New Zealand,Winner2ndInning,Melbourne,"Mar 29, 2015",Australia,Australia,Home,Away,Second,First,7 wickets
+ODI # 3647,Bangladesh,Pakistan,Winner1stInning,Dhaka,"Apr 17, 2015",Bangladesh,Bangladesh,Home,Away,First,Second,79 runs
+ODI # 3648,Bangladesh,Pakistan,Winner2ndInning,Dhaka,"Apr 19, 2015",Bangladesh,Bangladesh,Home,Away,Second,First,7 wickets
+ODI # 3649,Bangladesh,Pakistan,Winner2ndInning,Dhaka,"Apr 22, 2015",Bangladesh,Bangladesh,Home,Away,Second,First,8 wickets
+ODI # 3651,Pakistan,Zimbabwe,Winner1stInning,Lahore,"May 26, 2015",Pakistan,Pakistan,Home,Away,First,Second,41 runs
+ODI # 3652,Pakistan,Zimbabwe,Winner2ndInning,Lahore,"May 29, 2015",Pakistan,Pakistan,Home,Away,Second,First,6 wickets
+ODI # 3654,England,New Zealand,Winner1stInning,Birmingham,"Jun 9, 2015",England,England,Home,Away,First,Second,210 runs
+ODI # 3655,England,New Zealand,Winner1stInning,The Oval,"Jun 12, 2015",New Zealand,England,Home,Away,Second,First,13 runs
+ODI # 3656,England,New Zealand,Winner2ndInning,Southampton,"Jun 14, 2015",New Zealand,England,Home,Away,First,Second,3 wickets
+ODI # 3657,England,New Zealand,Winner2ndInning,Nottingham,"Jun 17, 2015",England,England,Home,Away,Second,First,7 wickets
+ODI # 3658,Bangladesh,India,Winner1stInning,Dhaka,"Jun 18, 2015",Bangladesh,Bangladesh,Home,Away,First,Second,79 runs
+ODI # 3659,England,New Zealand,Winner2ndInning,Chester,"Jun 20, 2015",England,England,Home,Away,Second,First,3 wickets
+ODI # 3660,Bangladesh,India,Winner2ndInning,Dhaka,"Jun 21, 2015",Bangladesh,Bangladesh,Home,Away,Second,First,6 wickets
+ODI # 3661,Bangladesh,India,Winner1stInning,Dhaka,"Jun 24, 2015",India,Bangladesh,Home,Away,Second,First,77 runs
+ODI # 3662,Zimbabwe,India,Winner1stInning,Harare,"Jul 10, 2015",India,Zimbabwe,Home,Away,Second,First,4 runs
+ODI # 3663,Bangladesh,South Africa,Winner2ndInning,Dhaka,"Jul 10, 2015",South Africa,Bangladesh,Home,Away,First,Second,8 wickets
+ODI # 3664,Sri Lanka,Pakistan,Winner2ndInning,Dambulla,"Jul 11, 2015",Pakistan,Sri Lanka,Home,Away,First,Second,6 wickets
+ODI # 3665,Zimbabwe,India,Winner1stInning,Harare,"Jul 12, 2015",India,Zimbabwe,Home,Away,Second,First,62 runs
+ODI # 3666,Bangladesh,South Africa,Winner2ndInning,Dhaka,"Jul 12, 2015",Bangladesh,Bangladesh,Home,Away,Second,First,7 wickets
+ODI # 3667,Zimbabwe,India,Winner1stInning,Harare,"Jul 14, 2015",India,Zimbabwe,Home,Away,Second,First,83 runs
+ODI # 3668,Bangladesh,South Africa,Winner2ndInning,Chittagong,"Jul 15, 2015",Bangladesh,Bangladesh,Home,Away,Second,First,9 wickets
+ODI # 3669,Sri Lanka,Pakistan,Winner2ndInning,Pallekele,"Jul 15, 2015",Sri Lanka,,Neutral,Neutral,Second,First,2 wickets
+ODI # 3670,Sri Lanka,Pakistan,Winner1stInning,Colombo,"Jul 19, 2015",Pakistan,Sri Lanka,Home,Away,Second,First,135 runs
+ODI # 3671,Sri Lanka,Pakistan,Winner2ndInning,Colombo,"Jul 22, 2015",Pakistan,Sri Lanka,Home,Away,First,Second,7 wickets
+ODI # 3672,Sri Lanka,Pakistan,Winner1stInning,Hambantota,"Jul 26, 2015",Sri Lanka,Sri Lanka,Home,Away,First,Second,165 runs
+ODI # 3673,Zimbabwe,New Zealand,Winner2ndInning,Harare,"Aug 2, 2015",Zimbabwe,Zimbabwe,Home,Away,Second,First,7 wickets
+ODI # 3674,Zimbabwe,New Zealand,Winner2ndInning,Harare,"Aug 4, 2015",New Zealand,Zimbabwe,Home,Away,First,Second,10 wickets
+ODI # 3675,Zimbabwe,New Zealand,Winner1stInning,Harare,"Aug 7, 2015",New Zealand,Zimbabwe,Home,Away,Second,First,38 runs
+ODI # 3676,South Africa,New Zealand,Winner1stInning,Centurion,"Aug 19, 2015",South Africa,South Africa,Home,Away,First,Second,20 runs
+ODI # 3677,South Africa,New Zealand,Winner2ndInning,Potchefstroom,"Aug 23, 2015",New Zealand,South Africa,Home,Away,First,Second,8 wickets
+ODI # 3678,South Africa,New Zealand,Winner1stInning,Durban,"Aug 26, 2015",South Africa,South Africa,Home,Away,First,Second,62 runs
+ODI # 3679,Ireland,Australia,Winner1stInning,Belfast,"Aug 27, 2015",Australia,Ireland,Home,Away,Second,First,23 runs
+ODI # 3680,England,Australia,Winner1stInning,Southampton,"Sep 3, 2015",Australia,England,Home,Away,Second,First,59 runs
+ODI # 3681,England,Australia,Winner1stInning,Lord's,"Sep 5, 2015",Australia,England,Home,Away,Second,First,64 runs
+ODI # 3682,England,Australia,Winner1stInning,Manchester,"Sep 8, 2015",England,England,Home,Away,First,Second,93 runs
+ODI # 3683,England,Australia,Winner2ndInning,Leeds,"Sep 11, 2015",England,England,Home,Away,Second,First,3 wickets
+ODI # 3684,England,Australia,Winner2ndInning,Manchester,"Sep 13, 2015",Australia,England,Home,Away,First,Second,8 wickets
+ODI # 3685,Zimbabwe,Pakistan,Winner1stInning,Harare,"Oct 1, 2015",Pakistan,Zimbabwe,Home,Away,Second,First,131 runs
+ODI # 3686,Zimbabwe,Pakistan,Winner1stInning,Harare,"Oct 3, 2015",Zimbabwe,Zimbabwe,Home,Away,First,Second,5 runs
+ODI # 3687,Zimbabwe,Pakistan,Winner2ndInning,Harare,"Oct 5, 2015",Pakistan,Zimbabwe,Home,Away,First,Second,7 wickets
+ODI # 3688,Zimbabwe,Ireland,Winner2ndInning,Harare,"Oct 9, 2015",Zimbabwe,Zimbabwe,Home,Away,Second,First,2 wickets
+ODI # 3689,India,South Africa,Winner1stInning,Kanpur,"Oct 11, 2015",South Africa,India,Home,Away,Second,First,5 runs
+ODI # 3690,Zimbabwe,Ireland,Winner2ndInning,Harare,"Oct 11, 2015",Zimbabwe,Zimbabwe,Home,Away,Second,First,5 wickets
+ODI # 3691,Zimbabwe,Ireland,Winner2ndInning,Harare,"Oct 13, 2015",Ireland,Zimbabwe,Home,Away,First,Second,2 wickets
+ODI # 3692,India,South Africa,Winner1stInning,Indore,"Oct 14, 2015",India,India,Home,Away,First,Second,22 runs
+ODI # 3693,Zimbabwe,Afghanistan,Winner2ndInning,Bulawayo,"Oct 16, 2015",Zimbabwe,Zimbabwe,Home,Away,Second,First,8 wickets
+ODI # 3694,Zimbabwe,Afghanistan,Winner1stInning,Bulawayo,"Oct 18, 2015",Afghanistan,Zimbabwe,Home,Away,Second,First,58 runs
+ODI # 3695,India,South Africa,Winner1stInning,Rajkot,"Oct 18, 2015",South Africa,India,Home,Away,Second,First,18 runs
+ODI # 3696,Zimbabwe,Afghanistan,Winner2ndInning,Bulawayo,"Oct 20, 2015",Zimbabwe,Zimbabwe,Home,Away,Second,First,6 wickets
+ODI # 3697,Zimbabwe,Afghanistan,Winner2ndInning,Bulawayo,"Oct 22, 2015",Afghanistan,Zimbabwe,Home,Away,First,Second,3 wickets
+ODI # 3698,India,South Africa,Winner1stInning,Chennai,"Oct 22, 2015",India,India,Home,Away,First,Second,35 runs
+ODI # 3699,Zimbabwe,Afghanistan,Winner1stInning,Bulawayo,"Oct 24, 2015",Afghanistan,Zimbabwe,Home,Away,Second,First,73 runs
+ODI # 3700,India,South Africa,Winner1stInning,Mumbai,"Oct 25, 2015",South Africa,India,Home,Away,Second,First,214 runs
+ODI # 3701,Sri Lanka,West Indies,Winner2ndInning,Colombo,"Nov 1, 2015",Sri Lanka,Sri Lanka,Home,Away,Second,First,1 wicket
+ODI # 3702,Sri Lanka,West Indies,Winner2ndInning,Colombo,"Nov 4, 2015",Sri Lanka,Sri Lanka,Home,Away,Second,First,8 wickets
+ODI # 3703,Bangladesh,Zimbabwe,Winner1stInning,Dhaka,"Nov 7, 2015",Bangladesh,Bangladesh,Home,Away,First,Second,145 runs
+ODI # 3704,Sri Lanka,West Indies,Winner1stInning,Pallekele,"Nov 7, 2015",Sri Lanka,,Neutral,Neutral,First,Second,19 runs
+ODI # 3705,Bangladesh,Zimbabwe,Winner1stInning,Dhaka,"Nov 9, 2015",Bangladesh,Bangladesh,Home,Away,First,Second,58 runs
+ODI # 3706,Bangladesh,Zimbabwe,Winner1stInning,Dhaka,"Nov 11, 2015",Bangladesh,Bangladesh,Home,Away,First,Second,61 runs
+ODI # 3707,England,Pakistan,Winner2ndInning,Abu Dhabi,"Nov 11, 2015",Pakistan,U.A.E.,Neutral,Neutral,First,Second,6 wickets
+ODI # 3708,England,Pakistan,Winner1stInning,Abu Dhabi,"Nov 13, 2015",England,U.A.E.,Neutral,Neutral,First,Second,95 runs
+ODI # 3709,U.A.E.,Hong Kong,Winner1stInning,ICCA Dubai,"Nov 16, 2015",Hong Kong,U.A.E.,Home,Away,Second,First,89 runs
+ODI # 3710,England,Pakistan,Winner2ndInning,Sharjah,"Nov 17, 2015",England,U.A.E.,Neutral,Neutral,Second,First,6 wickets
+ODI # 3711,U.A.E.,Hong Kong,Winner1stInning,ICCA Dubai,"Nov 18, 2015",Hong Kong,U.A.E.,Home,Away,Second,First,136 runs
+ODI # 3712,England,Pakistan,Winner1stInning,Dubai,"Nov 20, 2015",England,U.A.E.,Neutral,Neutral,First,Second,84 runs
+ODI # 3713,Afghanistan,Zimbabwe,Winner1stInning,Sharjah,"Dec 25, 2015",Afghanistan,U.A.E.,Neutral,Neutral,First,Second,49 runs
+ODI # 3714,New Zealand,Sri Lanka,Winner2ndInning,Christchurch,"Dec 26, 2015",New Zealand,New Zealand,Home,Away,Second,First,7 wickets
+ODI # 3715,New Zealand,Sri Lanka,Winner2ndInning,Christchurch,"Dec 28, 2015",New Zealand,New Zealand,Home,Away,Second,First,10 wickets
+ODI # 3716,Afghanistan,Zimbabwe,Winner2ndInning,Sharjah,"Dec 29, 2015",Afghanistan,U.A.E.,Neutral,Neutral,Second,First,4 wickets
+ODI # 3717,New Zealand,Sri Lanka,Winner2ndInning,Nelson,"Dec 31, 2015",Sri Lanka,New Zealand,Home,Away,First,Second,8 wickets
+ODI # 3719,Afghanistan,Zimbabwe,Winner1stInning,Sharjah,"Jan 2, 2016",Zimbabwe,U.A.E.,Neutral,Neutral,Second,First,117 runs
+ODI # 3720,Afghanistan,Zimbabwe,Winner1stInning,Sharjah,"Jan 4, 2016",Zimbabwe,U.A.E.,Neutral,Neutral,Second,First,65 runs
+ODI # 3721,New Zealand,Sri Lanka,Winner1stInning,Mount Maunganui,"Jan 5, 2016",New Zealand,New Zealand,Home,Away,First,Second,36 runs
+ODI # 3722,Afghanistan,Zimbabwe,Winner2ndInning,Sharjah,"Jan 6, 2016",Afghanistan,U.A.E.,Neutral,Neutral,Second,First,2 wickets
+ODI # 3723,Australia,India,Winner2ndInning,Perth,"Jan 12, 2016",Australia,Australia,Home,Away,Second,First,5 wickets
+ODI # 3724,Australia,India,Winner2ndInning,Brisbane,"Jan 15, 2016",Australia,Australia,Home,Away,Second,First,7 wickets
+ODI # 3725,Australia,India,Winner2ndInning,Melbourne,"Jan 17, 2016",Australia,Australia,Home,Away,Second,First,3 wickets
+ODI # 3726,Australia,India,Winner1stInning,Canberra,"Jan 20, 2016",Australia,Australia,Home,Away,First,Second,25 runs
+ODI # 3727,Australia,India,Winner2ndInning,Sydney,"Jan 23, 2016",India,Australia,Home,Away,First,Second,6 wickets
+ODI # 3728,New Zealand,Pakistan,Winner1stInning,Wellington,"Jan 25, 2016",New Zealand,New Zealand,Home,Away,First,Second,70 runs
+ODI # 3729,Hong Kong,Scotland,Winner1stInning,Mong Kok,"Jan 26, 2016",Hong Kong,Hong Kong,Home,Away,First,Second,109 runs
+ODI # 3730,New Zealand,Pakistan,Winner2ndInning,Auckland,"Jan 31, 2016",New Zealand,New Zealand,Home,Away,Second,First,3 wickets
+ODI # 3731,New Zealand,Australia,Winner1stInning,Auckland,"Feb 3, 2016",New Zealand,New Zealand,Home,Away,First,Second,159 runs
+ODI # 3732,South Africa,England,Winner1stInning,Bloemfontein,"Feb 3, 2016",England,South Africa,Home,Away,Second,First,39 runs
+ODI # 3733,New Zealand,Australia,Winner2ndInning,Wellington,"Feb 6, 2016",Australia,New Zealand,Home,Away,First,Second,4 wickets
+ODI # 3734,South Africa,England,Winner2ndInning,Port Elizabeth,"Feb 6, 2016",England,South Africa,Home,Away,First,Second,5 wickets
+ODI # 3735,New Zealand,Australia,Winner1stInning,Hamilton,"Feb 8, 2016",New Zealand,New Zealand,Home,Away,First,Second,55 runs
+ODI # 3736,South Africa,England,Winner2ndInning,Centurion,"Feb 9, 2016",South Africa,South Africa,Home,Away,Second,First,7 wickets
+ODI # 3737,South Africa,England,Winner2ndInning,Johannesburg,"Feb 12, 2016",South Africa,South Africa,Home,Away,Second,First,1 wicket
+ODI # 3738,South Africa,England,Winner2ndInning,Cape Town,"Feb 14, 2016",South Africa,South Africa,Home,Away,Second,First,5 wickets
+ODI # 3739,West Indies,South Africa,Winner2ndInning,Providence,"Jun 3, 2016",West Indies,West Indies,Home,Away,Second,First,4 wickets
+ODI # 3740,West Indies,Australia,Winner2ndInning,Providence,"Jun 5, 2016",Australia,West Indies,Home,Away,First,Second,6 wickets
+ODI # 3741,Australia,South Africa,Winner1stInning,Providence,"Jun 7, 2016",South Africa,West Indies,Neutral,Neutral,Second,First,47 runs
+ODI # 3742,Zimbabwe,India,Winner2ndInning,Harare,"Jun 11, 2016",India,Zimbabwe,Home,Away,First,Second,9 wickets
+ODI # 3743,Australia,South Africa,Winner1stInning,Basseterre,"Jun 11, 2016",Australia,West Indies,Neutral,Neutral,First,Second,36 runs
+ODI # 3744,Zimbabwe,India,Winner2ndInning,Harare,"Jun 13, 2016",India,Zimbabwe,Home,Away,First,Second,8 wickets
+ODI # 3745,West Indies,Australia,Winner2ndInning,Basseterre,"Jun 13, 2016",West Indies,West Indies,Home,Away,Second,First,4 wickets
+ODI # 3746,Zimbabwe,India,Winner2ndInning,Harare,"Jun 15, 2016",India,Zimbabwe,Home,Away,First,Second,10 wickets
+ODI # 3747,West Indies,South Africa,Winner1stInning,Basseterre,"Jun 15, 2016",South Africa,West Indies,Home,Away,Second,First,139 runs
+ODI # 3748,Ireland,Sri Lanka,Winner1stInning,Dublin,"Jun 16, 2016",Sri Lanka,Ireland,Home,Away,Second,First,76 runs
+ODI # 3749,Ireland,Sri Lanka,Winner1stInning,Dublin,"Jun 18, 2016",Sri Lanka,Ireland,Home,Away,Second,First,136 runs
+ODI # 3752,West Indies,Australia,Winner2ndInning,Bridgetown,"Jun 21, 2016",Australia,West Indies,Home,Away,First,Second,6 wickets
+ODI # 3753,England,Sri Lanka,Winner2ndInning,Birmingham,"Jun 24, 2016",England,England,Home,Away,Second,First,10 wickets
+ODI # 3754,West Indies,South Africa,Winner1stInning,Bridgetown,"Jun 24, 2016",West Indies,West Indies,Home,Away,First,Second,100 runs
+ODI # 3756,West Indies,Australia,Winner1stInning,Bridgetown,"Jun 26, 2016",Australia,West Indies,Home,Away,Second,First,58 runs
+ODI # 3757,England,Sri Lanka,Winner2ndInning,The Oval,"Jun 29, 2016",England,England,Home,Away,Second,First,6 wickets
+ODI # 3758,England,Sri Lanka,Winner1stInning,Cardiff,"Jul 2, 2016",England,England,Home,Away,First,Second,122 runs
+ODI # 3760,Scotland,Afghanistan,Winner1stInning,Edinburgh,"Jul 6, 2016",Afghanistan,Scotland,Home,Away,Second,First,78 runs
+ODI # 3761,Ireland,Afghanistan,Winner1stInning,Belfast,"Jul 12, 2016",Afghanistan,Ireland,Home,Away,Second,First,39 runs
+ODI # 3762,Ireland,Afghanistan,Winner2ndInning,Belfast,"Jul 14, 2016",Ireland,Ireland,Home,Away,Second,First,6 wickets
+ODI # 3763,Ireland,Afghanistan,Winner1stInning,Belfast,"Jul 17, 2016",Afghanistan,Ireland,Home,Away,Second,First,79 runs
+ODI # 3764,Ireland,Afghanistan,Winner1stInning,Belfast,"Jul 19, 2016",Ireland,Ireland,Home,Away,First,Second,12 runs
+ODI # 3765,Scotland,U.A.E.,Winner1stInning,Edinburgh,"Aug 14, 2016",Scotland,Scotland,Home,Away,First,Second,98 runs
+ODI # 3766,Scotland,U.A.E.,Winner2ndInning,Edinburgh,"Aug 16, 2016",Scotland,Scotland,Home,Away,Second,First,7 wickets
+ODI # 3767,Ireland,Pakistan,Winner1stInning,Dublin,"Aug 18, 2016",Pakistan,Ireland,Home,Away,Second,First,255 runs
+ODI # 3768,Sri Lanka,Australia,Winner2ndInning,Colombo,"Aug 21, 2016",Australia,Sri Lanka,Home,Away,First,Second,3 wickets
+ODI # 3769,Sri Lanka,Australia,Winner1stInning,Colombo,"Aug 24, 2016",Sri Lanka,Sri Lanka,Home,Away,First,Second,82 runs
+ODI # 3770,England,Pakistan,Winner1stInning,Southampton,"Aug 24, 2016",England,England,Home,Away,First,Second,44 runs
+ODI # 3771,England,Pakistan,Winner2ndInning,Lord's,"Aug 27, 2016",England,England,Home,Away,Second,First,4 wickets
+ODI # 3772,Sri Lanka,Australia,Winner2ndInning,Dambulla,"Aug 28, 2016",Australia,Sri Lanka,Home,Away,First,Second,2 wickets
+ODI # 3773,England,Pakistan,Winner1stInning,Nottingham,"Aug 30, 2016",England,England,Home,Away,First,Second,169 runs
+ODI # 3774,Sri Lanka,Australia,Winner2ndInning,Dambulla,"Aug 31, 2016",Australia,Sri Lanka,Home,Away,First,Second,6 wickets
+ODI # 3775,England,Pakistan,Winner2ndInning,Leeds,"Sep 1, 2016",England,England,Home,Away,Second,First,4 wickets
+ODI # 3776,Sri Lanka,Australia,Winner2ndInning,Pallekele,"Sep 4, 2016",Australia,,Neutral,Neutral,First,Second,5 wickets
+ODI # 3777,England,Pakistan,Winner2ndInning,Cardiff,"Sep 4, 2016",Pakistan,England,Home,Away,First,Second,4 wickets
+ODI # 3779,Scotland,Hong Kong,Winner1stInning,Edinburgh,"Sep 10, 2016",Scotland,Scotland,Home,Away,First,Second,53 runs
+ODI # 3780,South Africa,Ireland,Winner1stInning,Benoni,"Sep 25, 2016",South Africa,South Africa,Home,Away,First,Second,206 runs
+ODI # 3781,Bangladesh,Afghanistan,Winner1stInning,Dhaka,"Sep 25, 2016",Bangladesh,Bangladesh,Home,Away,First,Second,7 runs
+ODI # 3782,Australia,Ireland,Winner2ndInning,Benoni,"Sep 27, 2016",Australia,South Africa,Neutral,Neutral,Second,First,9 wickets
+ODI # 3783,Bangladesh,Afghanistan,Winner2ndInning,Dhaka,"Sep 28, 2016",Afghanistan,Bangladesh,Home,Away,First,Second,2 wickets
+ODI # 3784,Pakistan,West Indies,Winner1stInning,Sharjah,"Sep 30, 2016",Pakistan,U.A.E.,Neutral,Neutral,First,Second,111 runs
+ODI # 3785,South Africa,Australia,Winner2ndInning,Centurion,"Sep 30, 2016",South Africa,South Africa,Home,Away,Second,First,6 wickets
+ODI # 3786,Bangladesh,Afghanistan,Winner1stInning,Dhaka,"Oct 1, 2016",Bangladesh,Bangladesh,Home,Away,First,Second,141 runs
+ODI # 3787,South Africa,Australia,Winner1stInning,Johannesburg,"Oct 2, 2016",South Africa,South Africa,Home,Away,First,Second,142 runs
+ODI # 3788,Pakistan,West Indies,Winner1stInning,Sharjah,"Oct 2, 2016",Pakistan,U.A.E.,Neutral,Neutral,First,Second,59 runs
+ODI # 3789,Pakistan,West Indies,Winner1stInning,Abu Dhabi,"Oct 5, 2016",Pakistan,U.A.E.,Neutral,Neutral,First,Second,136 runs
+ODI # 3790,South Africa,Australia,Winner2ndInning,Durban,"Oct 5, 2016",South Africa,South Africa,Home,Away,Second,First,4 wickets
+ODI # 3791,Bangladesh,England,Winner1stInning,Dhaka,"Oct 7, 2016",England,Bangladesh,Home,Away,Second,First,21 runs
+ODI # 3792,South Africa,Australia,Winner2ndInning,Port Elizabeth,"Oct 9, 2016",South Africa,South Africa,Home,Away,Second,First,6 wickets
+ODI # 3793,Bangladesh,England,Winner1stInning,Dhaka,"Oct 9, 2016",Bangladesh,Bangladesh,Home,Away,First,Second,34 runs
+ODI # 3794,Bangladesh,England,Winner2ndInning,Chittagong,"Oct 12, 2016",England,Bangladesh,Home,Away,First,Second,4 wickets
+ODI # 3795,South Africa,Australia,Winner1stInning,Cape Town,"Oct 12, 2016",South Africa,South Africa,Home,Away,First,Second,31 runs
+ODI # 3796,India,New Zealand,Winner2ndInning,Dharamsala,"Oct 16, 2016",India,India,Home,Away,Second,First,6 wickets
+ODI # 3797,India,New Zealand,Winner1stInning,Delhi,"Oct 20, 2016",New Zealand,India,Home,Away,Second,First,6 runs
+ODI # 3798,India,New Zealand,Winner2ndInning,Mohali,"Oct 23, 2016",India,,Neutral,Neutral,Second,First,7 wickets
+ODI # 3799,India,New Zealand,Winner1stInning,Ranchi,"Oct 26, 2016",New Zealand,India,Home,Away,Second,First,19 runs
+ODI # 3800,India,New Zealand,Winner1stInning,Visakhapatnam,"Oct 29, 2016",India,India,Home,Away,First,Second,190 runs
+ODI # 3801,Hong Kong,P.N.G.,Winner1stInning,Mong Kok,"Nov 4, 2016",Hong Kong,Hong Kong,Home,Away,First,Second,106 runs
+ODI # 3802,Hong Kong,P.N.G.,Winner1stInning,Mong Kok,"Nov 6, 2016",P.N.G.,Hong Kong,Home,Away,Second,First,14 runs
+ODI # 3803,Hong Kong,P.N.G.,Winner2ndInning,Mong Kok,"Nov 8, 2016",Hong Kong,Hong Kong,Home,Away,Second,First,7 wickets
+ODI # 3804,Zimbabwe,Sri Lanka,Winner2ndInning,Harare,"Nov 14, 2016",Sri Lanka,Zimbabwe,Home,Away,First,Second,8 wickets
+ODI # 3805,Sri Lanka,West Indies,Winner1stInning,Harare,"Nov 16, 2016",West Indies,Zimbabwe,Neutral,Neutral,Second,First,62 runs
+ODI # 3808,Sri Lanka,West Indies,Winner1stInning,Bulawayo,"Nov 23, 2016",Sri Lanka,Zimbabwe,Neutral,Neutral,First,Second,1 run
+ODI # 3809,Zimbabwe,West Indies,Winner1stInning,Bulawayo,"Nov 25, 2016",Zimbabwe,Zimbabwe,Home,Away,First,Second,5 runs
+ODI # 3810,Zimbabwe,Sri Lanka,Winner2ndInning,Bulawayo,"Nov 27, 2016",Sri Lanka,Zimbabwe,Home,Away,First,Second,6 wickets
+ODI # 3811,Australia,New Zealand,Winner1stInning,Sydney,"Dec 4, 2016",Australia,Australia,Home,Away,First,Second,68 runs
+ODI # 3812,Australia,New Zealand,Winner1stInning,Canberra,"Dec 6, 2016",Australia,Australia,Home,Away,First,Second,116 runs
+ODI # 3813,Australia,New Zealand,Winner1stInning,Melbourne,"Dec 9, 2016",Australia,Australia,Home,Away,First,Second,117 runs
+ODI # 3814,New Zealand,Bangladesh,Winner1stInning,Christchurch,"Dec 26, 2016",New Zealand,New Zealand,Home,Away,First,Second,77 runs
+ODI # 3815,New Zealand,Bangladesh,Winner1stInning,Nelson,"Dec 29, 2016",New Zealand,New Zealand,Home,Away,First,Second,67 runs
+ODI # 3816,New Zealand,Bangladesh,Winner2ndInning,Nelson,"Dec 31, 2016",New Zealand,New Zealand,Home,Away,Second,First,8 wickets
+ODI # 3817,Australia,Pakistan,Winner1stInning,Brisbane,"Jan 13, 2017",Australia,Australia,Home,Away,First,Second,92 runs
+ODI # 3818,Australia,Pakistan,Winner2ndInning,Melbourne,"Jan 15, 2017",Pakistan,Australia,Home,Away,First,Second,6 wickets
+ODI # 3819,India,England,Winner2ndInning,Pune,"Jan 15, 2017",India,India,Home,Away,Second,First,3 wickets
+ODI # 3820,Australia,Pakistan,Winner2ndInning,Perth,"Jan 19, 2017",Australia,Australia,Home,Away,Second,First,7 wickets
+ODI # 3821,India,England,Winner1stInning,Cuttack,"Jan 19, 2017",India,India,Home,Away,First,Second,15 runs
+ODI # 3822,Australia,Pakistan,Winner1stInning,Sydney,"Jan 22, 2017",Australia,Australia,Home,Away,First,Second,86 runs
+ODI # 3823,Hong Kong,Scotland,Winner2ndInning,Abu Dhabi,"Jan 22, 2017",Hong Kong,U.A.E.,Neutral,Neutral,Second,First,7 wickets
+ODI # 3824,India,England,Winner1stInning,Kolkata,"Jan 22, 2017",England,India,Home,Away,Second,First,5 runs
+ODI # 3825,U.A.E.,Scotland,Winner2ndInning,Dubai,"Jan 24, 2017",U.A.E.,U.A.E.,Home,Away,Second,First,4 wickets
+ODI # 3826,Australia,Pakistan,Winner1stInning,Adelaide,"Jan 26, 2017",Australia,Australia,Home,Away,First,Second,57 runs
+ODI # 3827,U.A.E.,Hong Kong,Winner2ndInning,Dubai,"Jan 26, 2017",U.A.E.,U.A.E.,Home,Away,Second,First,6 wickets
+ODI # 3828,South Africa,Sri Lanka,Winner2ndInning,Port Elizabeth,"Jan 28, 2017",South Africa,South Africa,Home,Away,Second,First,8 wickets
+ODI # 3829,New Zealand,Australia,Winner1stInning,Auckland,"Jan 30, 2017",New Zealand,New Zealand,Home,Away,First,Second,6 runs
+ODI # 3830,South Africa,Sri Lanka,Winner1stInning,Durban,"Feb 1, 2017",South Africa,South Africa,Home,Away,First,Second,121 runs
+ODI # 3831,South Africa,Sri Lanka,Winner2ndInning,Johannesburg,"Feb 4, 2017",South Africa,South Africa,Home,Away,Second,First,7 wickets
+ODI # 3832,New Zealand,Australia,Winner1stInning,Hamilton,"Feb 5, 2017",New Zealand,New Zealand,Home,Away,First,Second,24 runs
+ODI # 3833,South Africa,Sri Lanka,Winner1stInning,Cape Town,"Feb 7, 2017",South Africa,South Africa,Home,Away,First,Second,40 runs
+ODI # 3834,South Africa,Sri Lanka,Winner1stInning,Centurion,"Feb 10, 2017",South Africa,South Africa,Home,Away,First,Second,88 runs
+ODI # 3835,Zimbabwe,Afghanistan,Winner1stInning,Harare,"Feb 16, 2017",Afghanistan,Zimbabwe,Home,Away,Second,First,12 runs
+ODI # 3836,New Zealand,South Africa,Winner2ndInning,Hamilton,"Feb 19, 2017",South Africa,New Zealand,Home,Away,First,Second,4 wickets
+ODI # 3837,Zimbabwe,Afghanistan,Winner1stInning,Harare,"Feb 19, 2017",Afghanistan,Zimbabwe,Home,Away,Second,First,54 runs
+ODI # 3838,Zimbabwe,Afghanistan,Winner1stInning,Harare,"Feb 21, 2017",Zimbabwe,Zimbabwe,Home,Away,First,Second,3 runs
+ODI # 3839,New Zealand,South Africa,Winner1stInning,Christchurch,"Feb 22, 2017",New Zealand,New Zealand,Home,Away,First,Second,6 runs
+ODI # 3840,Zimbabwe,Afghanistan,Winner2ndInning,Harare,"Feb 24, 2017",Zimbabwe,Zimbabwe,Home,Away,Second,First,7 wickets
+ODI # 3841,New Zealand,South Africa,Winner1stInning,Wellington,"Feb 25, 2017",South Africa,New Zealand,Home,Away,Second,First,159 runs
+ODI # 3842,Zimbabwe,Afghanistan,Winner1stInning,Harare,"Feb 26, 2017",Afghanistan,Zimbabwe,Home,Away,Second,First,106 runs
+ODI # 3843,New Zealand,South Africa,Winner2ndInning,Hamilton,"Mar 1, 2017",New Zealand,New Zealand,Home,Away,Second,First,7 wickets
+ODI # 3844,U.A.E.,Ireland,Winner1stInning,ICCA Dubai,"Mar 2, 2017",Ireland,U.A.E.,Home,Away,Second,First,85 runs
+ODI # 3845,West Indies,England,Winner1stInning,North Sound,"Mar 3, 2017",England,West Indies,Home,Away,Second,First,45 runs
+ODI # 3846,New Zealand,South Africa,Winner2ndInning,Auckland,"Mar 4, 2017",South Africa,New Zealand,Home,Away,First,Second,6 wickets
+ODI # 3847,U.A.E.,Ireland,Winner2ndInning,ICCA Dubai,"Mar 4, 2017",Ireland,U.A.E.,Home,Away,First,Second,8 wickets
+ODI # 3848,West Indies,England,Winner2ndInning,North Sound,"Mar 5, 2017",England,West Indies,Home,Away,First,Second,4 wickets
+ODI # 3849,West Indies,England,Winner1stInning,Bridgetown,"Mar 9, 2017",England,West Indies,Home,Away,Second,First,186 runs
+ODI # 3850,Afghanistan,Ireland,Winner1stInning,Greater Noida,"Mar 15, 2017",Afghanistan,India,Neutral,Neutral,First,Second,30 runs
+ODI # 3851,Afghanistan,Ireland,Winner1stInning,Greater Noida,"Mar 17, 2017",Afghanistan,India,Neutral,Neutral,First,Second,34 runs
+ODI # 3852,Afghanistan,Ireland,Winner2ndInning,Greater Noida,"Mar 19, 2017",Ireland,India,Neutral,Neutral,First,Second,6 wickets
+ODI # 3853,Afghanistan,Ireland,Winner2ndInning,Greater Noida,"Mar 22, 2017",Ireland,India,Neutral,Neutral,First,Second,3 wickets
+ODI # 3854,Afghanistan,Ireland,Winner2ndInning,Greater Noida,"Mar 24, 2017",Afghanistan,India,Neutral,Neutral,Second,First,7 wickets
+ODI # 3855,Sri Lanka,Bangladesh,Winner1stInning,Dambulla,"Mar 25, 2017",Bangladesh,Sri Lanka,Home,Away,Second,First,90 runs
+ODI # 3857,U.A.E.,P.N.G.,Winner1stInning,Abu Dhabi,"Mar 31, 2017",U.A.E.,U.A.E.,Home,Away,First,Second,82 runs
+ODI # 3858,Sri Lanka,Bangladesh,Winner1stInning,Colombo,"Apr 1, 2017",Sri Lanka,Sri Lanka,Home,Away,First,Second,70 runs
+ODI # 3859,U.A.E.,P.N.G.,Winner1stInning,Abu Dhabi,"Apr 2, 2017",P.N.G.,U.A.E.,Home,Away,Second,First,26 runs
+ODI # 3860,U.A.E.,P.N.G.,Winner1stInning,Abu Dhabi,"Apr 4, 2017",U.A.E.,U.A.E.,Home,Away,First,Second,103 runs
+ODI # 3861,West Indies,Pakistan,Winner2ndInning,Providence,"Apr 7, 2017",West Indies,West Indies,Home,Away,Second,First,4 wickets
+ODI # 3862,West Indies,Pakistan,Winner1stInning,Providence,"Apr 9, 2017",Pakistan,West Indies,Home,Away,Second,First,74 runs
+ODI # 3863,West Indies,Pakistan,Winner2ndInning,Providence,"Apr 11, 2017",Pakistan,West Indies,Home,Away,First,Second,6 wickets
+ODI # 3864,England,Ireland,Winner2ndInning,Bristol,"May 5, 2017",England,England,Home,Away,Second,First,7 wickets
+ODI # 3865,England,Ireland,Winner1stInning,Lord's,"May 7, 2017",England,England,Home,Away,First,Second,85 runs
+ODI # 3867,Ireland,New Zealand,Winner1stInning,Dublin,"May 14, 2017",New Zealand,Ireland,Home,Away,Second,First,51 runs
+ODI # 3868,Bangladesh,New Zealand,Winner2ndInning,Dublin,"May 17, 2017",New Zealand,Ireland,Neutral,Neutral,First,Second,4 wickets
+ODI # 3869,Ireland,Bangladesh,Winner2ndInning,Dublin,"May 19, 2017",Bangladesh,Ireland,Home,Away,First,Second,8 wickets
+ODI # 3870,Ireland,New Zealand,Winner1stInning,Dublin,"May 21, 2017",New Zealand,Ireland,Home,Away,Second,First,190 runs
+ODI # 3871,Bangladesh,New Zealand,Winner2ndInning,Dublin,"May 24, 2017",Bangladesh,Ireland,Neutral,Neutral,Second,First,5 wickets
+ODI # 3872,England,South Africa,Winner1stInning,Leeds,"May 24, 2017",England,England,Home,Away,First,Second,72 runs
+ODI # 3873,England,South Africa,Winner1stInning,Southampton,"May 27, 2017",England,England,Home,Away,First,Second,2 runs
+ODI # 3874,England,South Africa,Winner2ndInning,Lord's,"May 29, 2017",South Africa,England,Home,Away,First,Second,7 wickets
+ODI # 3875,England,Bangladesh,Winner2ndInning,The Oval,"Jun 1, 2017",England,England,Home,Away,Second,First,8 wickets
+ODI # 3877,South Africa,Sri Lanka,Winner1stInning,The Oval,"Jun 3, 2017",South Africa,England,Neutral,Neutral,First,Second,96 runs
+ODI # 3878,India,Pakistan,Winner1stInning,Birmingham,"Jun 4, 2017",India,England,Neutral,Neutral,First,Second,124 runs
+ODI # 3880,England,New Zealand,Winner1stInning,Cardiff,"Jun 6, 2017",England,England,Home,Away,First,Second,87 runs
+ODI # 3881,Pakistan,South Africa,Winner1stInning,Birmingham,"Jun 7, 2017",Pakistan,England,Neutral,Neutral,First,Second,19 runs
+ODI # 3882,India,Sri Lanka,Winner2ndInning,The Oval,"Jun 8, 2017",Sri Lanka,England,Neutral,Neutral,First,Second,7 wickets
+ODI # 3883,Bangladesh,New Zealand,Winner2ndInning,Cardiff,"Jun 9, 2017",Bangladesh,England,Neutral,Neutral,Second,First,5 wickets
+ODI # 3884,West Indies,Afghanistan,Winner1stInning,Gros Islet,"Jun 9, 2017",Afghanistan,West Indies,Home,Away,Second,First,63 runs
+ODI # 3885,England,Australia,Winner1stInning,Birmingham,"Jun 10, 2017",England,England,Home,Away,First,Second,40 runs
+ODI # 3886,India,South Africa,Winner2ndInning,The Oval,"Jun 11, 2017",India,England,Neutral,Neutral,Second,First,8 wickets
+ODI # 3887,West Indies,Afghanistan,Winner2ndInning,Gros Islet,"Jun 11, 2017",West Indies,West Indies,Home,Away,Second,First,4 wickets
+ODI # 3888,Pakistan,Sri Lanka,Winner2ndInning,Cardiff,"Jun 12, 2017",Pakistan,England,Neutral,Neutral,Second,First,3 wickets
+ODI # 3889,England,Pakistan,Winner2ndInning,Cardiff,"Jun 14, 2017",Pakistan,England,Home,Away,First,Second,8 wickets
+ODI # 3891,Bangladesh,India,Winner2ndInning,Birmingham,"Jun 15, 2017",India,England,Neutral,Neutral,First,Second,9 wickets
+ODI # 3892,Scotland,Zimbabwe,Winner1stInning,Edinburgh,"Jun 15, 2017",Scotland,Scotland,Home,Away,First,Second,26 runs
+ODI # 3893,Scotland,Zimbabwe,Winner2ndInning,Edinburgh,"Jun 17, 2017",Zimbabwe,Scotland,Home,Away,First,Second,6 wickets
+ODI # 3894,India,Pakistan,Winner1stInning,The Oval,"Jun 18, 2017",Pakistan,England,Neutral,Neutral,Second,First,180 runs
+ODI # 3896,West Indies,India,Winner1stInning,Port of Spain,"Jun 25, 2017",India,West Indies,Home,Away,Second,First,105 runs
+ODI # 3897,Sri Lanka,Zimbabwe,Winner2ndInning,Galle,"Jun 30, 2017",Zimbabwe,Sri Lanka,Home,Away,First,Second,6 wickets
+ODI # 3898,West Indies,India,Winner1stInning,North Sound,"Jun 30, 2017",India,West Indies,Home,Away,Second,First,93 runs
+ODI # 3899,Sri Lanka,Zimbabwe,Winner2ndInning,Galle,"Jul 2, 2017",Sri Lanka,Sri Lanka,Home,Away,Second,First,7 wickets
+ODI # 3900,West Indies,India,Winner1stInning,North Sound,"Jul 2, 2017",West Indies,West Indies,Home,Away,First,Second,11 runs
+ODI # 3901,Sri Lanka,Zimbabwe,Winner2ndInning,Hambantota,"Jul 6, 2017",Sri Lanka,Sri Lanka,Home,Away,Second,First,8 wickets
+ODI # 3902,West Indies,India,Winner2ndInning,Kingston,"Jul 6, 2017",India,West Indies,Home,Away,First,Second,8 wickets
+ODI # 3903,Sri Lanka,Zimbabwe,Winner2ndInning,Hambantota,"Jul 8, 2017",Zimbabwe,Sri Lanka,Home,Away,First,Second,4 wickets
+ODI # 3904,Sri Lanka,Zimbabwe,Winner2ndInning,Hambantota,"Jul 10, 2017",Zimbabwe,Sri Lanka,Home,Away,First,Second,3 wickets
+ODI # 3905,Sri Lanka,India,Winner2ndInning,Dambulla,"Aug 20, 2017",India,Sri Lanka,Home,Away,First,Second,9 wickets
+ODI # 3906,Sri Lanka,India,Winner2ndInning,Pallekele,"Aug 24, 2017",India,,Neutral,Neutral,First,Second,3 wickets
+ODI # 3907,Sri Lanka,India,Winner2ndInning,Pallekele,"Aug 27, 2017",India,,Neutral,Neutral,First,Second,6 wickets
+ODI # 3908,Sri Lanka,India,Winner1stInning,Colombo,"Aug 31, 2017",India,Sri Lanka,Home,Away,Second,First,168 runs
+ODI # 3909,Sri Lanka,India,Winner2ndInning,Colombo,"Sep 3, 2017",India,Sri Lanka,Home,Away,First,Second,6 wickets
+ODI # 3910,India,Australia,Winner1stInning,Chennai,"Sep 17, 2017",India,India,Home,Away,First,Second,26 runs
+ODI # 3911,England,West Indies,Winner2ndInning,Manchester,"Sep 19, 2017",England,England,Home,Away,Second,First,7 wickets
+ODI # 3912,India,Australia,Winner1stInning,Kolkata,"Sep 21, 2017",India,India,Home,Away,First,Second,50 runs
+ODI # 3914,India,Australia,Winner2ndInning,Indore,"Sep 24, 2017",India,India,Home,Away,Second,First,5 wickets
+ODI # 3915,England,West Indies,Winner1stInning,Bristol,"Sep 24, 2017",England,England,Home,Away,First,Second,124 runs
+ODI # 3916,England,West Indies,Winner1stInning,The Oval,"Sep 27, 2017",England,England,Home,Away,First,Second,6 runs
+ODI # 3917,India,Australia,Winner1stInning,Bengaluru,"Sep 28, 2017",Australia,India,Home,Away,Second,First,21 runs
+ODI # 3918,England,West Indies,Winner2ndInning,Southampton,"Sep 29, 2017",England,England,Home,Away,Second,First,9 wickets
+ODI # 3919,India,Australia,Winner2ndInning,Nagpur,"Oct 1, 2017",India,India,Home,Away,Second,First,7 wickets
+ODI # 3920,P.N.G.,Scotland,Winner1stInning,Port Moresby,"Oct 6, 2017",Scotland,Papua New Guinea,Neutral,Neutral,Second,First,101 runs
+ODI # 3921,P.N.G.,Scotland,Winner2ndInning,Port Moresby,"Oct 8, 2017",P.N.G.,Papua New Guinea,Neutral,Neutral,Second,First,5 wickets
+ODI # 3922,Pakistan,Sri Lanka,Winner1stInning,Dubai,"Oct 13, 2017",Pakistan,U.A.E.,Neutral,Neutral,First,Second,83 runs
+ODI # 3923,South Africa,Bangladesh,Winner2ndInning,Kimberley,"Oct 15, 2017",South Africa,South Africa,Home,Away,Second,First,10 wickets
+ODI # 3924,Pakistan,Sri Lanka,Winner1stInning,Abu Dhabi,"Oct 16, 2017",Pakistan,U.A.E.,Neutral,Neutral,First,Second,32 runs
+ODI # 3925,South Africa,Bangladesh,Winner1stInning,Paarl,"Oct 18, 2017",South Africa,South Africa,Home,Away,First,Second,104 runs
+ODI # 3926,Pakistan,Sri Lanka,Winner2ndInning,Abu Dhabi,"Oct 18, 2017",Pakistan,U.A.E.,Neutral,Neutral,Second,First,7 wickets
+ODI # 3927,Pakistan,Sri Lanka,Winner2ndInning,Sharjah,"Oct 20, 2017",Pakistan,U.A.E.,Neutral,Neutral,Second,First,7 wickets
+ODI # 3928,India,New Zealand,Winner2ndInning,Mumbai,"Oct 22, 2017",New Zealand,India,Home,Away,First,Second,6 wickets
+ODI # 3929,South Africa,Bangladesh,Winner1stInning,East London,"Oct 22, 2017",South Africa,South Africa,Home,Away,First,Second,200 runs
+ODI # 3930,Pakistan,Sri Lanka,Winner2ndInning,Sharjah,"Oct 23, 2017",Pakistan,U.A.E.,Neutral,Neutral,Second,First,9 wickets
+ODI # 3931,India,New Zealand,Winner2ndInning,Pune,"Oct 25, 2017",India,India,Home,Away,Second,First,6 wickets
+ODI # 3932,India,New Zealand,Winner1stInning,Kanpur,"Oct 29, 2017",India,India,Home,Away,First,Second,6 runs
